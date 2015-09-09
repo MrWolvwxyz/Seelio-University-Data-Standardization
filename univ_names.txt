@@ -1,0 +1,3707 @@
+Colorado Technical University	7413
+University of Michigan - Ann Arbor	6379
+University of Toledo	1675
+West Virginia University	873
+The University of Texas at Austin	677
+Ohio University	627
+Georgia Institute of Technology-Main Campus	433
+	371
+University of California-Los Angeles	345
+University of Arizona	344
+Purdue University-Calumet Campus	283
+Colorado Technical University Online	272
+Ohio University-Main Campus	226
+Michigan State University	217
+Tribeca Flashpoint Academy	216
+Moody Bible Institute	190
+Massachusetts Institute of Technology	181
+Eastern Michigan University	180
+University of Illinois at Urbana-Champaign	161
+Purdue University Calumet	151
+University of Detroit Mercy	145
+University of Michigan	132
+Scripps College of Communication	121
+Northwestern University	119
+Michigan Technological University	116
+Prairie View A&M University	97
+Towson University	92
+Prairie View A & M University	92
+Gig Harbor High School	80
+University of North Carolina-Wilmington	74
+City Colleges of Chicago-Harry S Truman College	72
+Carnegie Mellon University	70
+University of Notre Dame	69
+University of Kentucky	69
+Stanford University	68
+Purdue University-Main Campus	68
+Youth Nations	67
+Media Arts & Studies	66
+Northeastern University	66
+Wayne State University	63
+University of Delaware	61
+Western Michigan University	60
+	59
+North Southern University	58
+Harvard University	56
+Singapore Polytechnic	54
+University of Pennsylvania	50
+Seattle University	49
+Central Michigan University	48
+UCLA	47
+Columbia University in the City of New York	44
+University of Colorado Boulder	43
+Georgia Tech	42
+University of Washington-Seattle Campus	41
+Boston University	40
+Oakland University	38
+Cornell University	37
+Wesleyan University	34
+University of California-San Diego	33
+University of Wisconsin-Madison	33
+Arizona State University	33
+Pennsylvania State University-Main Campus	33
+Ohio State University-Main Campus	32
+University of Kansas	32
+Fairmont State University	31
+New York University	31
+University of Southern California	29
+University of Michigan School of Social Work	29
+University of Texas at Austin	28
+Miami University-Oxford	28
+The University of Toledo	27
+Grand Valley State University	27
+Maryville College	26
+Bowling Green State University-Main Campus	26
+University of California-Berkeley	26
+Georgetown University	26
+Princeton University	25
+Yale University	25
+University of Michigan - Dearborn	24
+Shanghai Jiao Tong University	24
+University of Georgia	23
+University of Phoenix-Online Campus	23
+Albion College	23
+Iowa State University	23
+University of Missouri-Columbia	23
+University of Maryland-College Park	23
+University of Illinois at Chicago	22
+University of Toronto	22
+Salisbury University	22
+University of Waterloo	21
+The University of Arizona	21
+George Washington University	21
+Georgia Institute of Technology	21
+Virginia Polytechnic Institute and State University	21
+University of Cincinnati-Main Campus	19
+Drexel University	19
+University of Rochester	18
+North Carolina State University at Raleigh	18
+University of Florida	18
+University of Chicago	18
+Georgia State University	17
+Syracuse University	17
+Saint Louis University-Main Campus	17
+Millikin University	17
+Community College of the Air Force	17
+Kansas State University	17
+12	17
+N/A	17
+University of Minnesota-Twin Cities	17
+University of Denver	16
+Rutgers University-New Brunswick	16
+Rochester Institute of Technology	16
+Duke University	16
+Brown University	16
+CTU	16
+none	15
+DePaul University	15
+San Francisco State University	15
+Ball State University	15
+San Diego State University	15
+University of Central Florida	15
+University of Massachusetts-Boston	14
+University of Virginia-Main Campus	14
+Dartmouth College	14
+San Jose State University	14
+Vanderbilt University	14
+University of California-Irvine	13
+Kent State University at Kent	13
+Academy of Art University	13
+Tribeca Flashpoint College	13
+The University of Michigan	13
+Rensselaer Polytechnic Institute	13
+Indiana University-Bloomington	13
+University of California-Santa Barbara	13
+University of Houston	13
+Ohio University-Lancaster Campus	12
+University of North Texas	12
+University of Massachusetts Amherst	12
+University of North Carolina at Chapel Hill	12
+California Polytechnic State University-San Luis Obispo	12
+Ashford University	12
+Bangladesh University of Engineering and Technology	12
+DeVry University-Texas	12
+Oakland Community College	12
+Auburn University	11
+Washington University in St Louis	11
+University of British Columbia	11
+University of Pittsburgh-Pittsburgh Campus	11
+The University of Texas at Dallas	11
+Florida State University	11
+The Ohio State University	11
+Santa Clara University	11
+Brigham Young University	11
+California State University-Northridge	11
+University of Utah	11
+Schoolcraft College	11
+American University	11
+Louisiana State University and Agricultural & Mechanical College	11
+Texas Tech University	11
+California State University-Sacramento	10
+University of Michigan - Flint	10
+WVU	10
+Loyola University Chicago	10
+La Salle University	10
+Clemson University	10
+Missouri State University	10
+Columbus State Community College	10
+Temple University	10
+Oklahoma State University-Main Campus	10
+Warner University	10
+Washington State University	10
+Owens Community College	10
+Tribeca Flashpoint Media Arts Academy	10
+university of toledo	10
+College for Creative Studies	10
+University of North Carolina at Wilmington	10
+University of Michigan School of Information	10
+Washtenaw Community College	9
+The University of Tennessee	9
+Emory University	9
+National Taiwan University	9
+Wichita State University	9
+University of Iowa	9
+Colorado State University	9
+The University of Texas at El Paso	9
+Middle Georgia State College	9
+University of North Carolina at Charlotte	9
+Ohio University Scripps College of Communication	9
+University of California, Los Angeles	9
+James Madison University	9
+California State University-Fullerton	9
+Marquette University	9
+Lawrence Technological University	9
+Skillshare	9
+University of Oregon	8
+University of California-Davis	8
+Wright State University-Main Campus	8
+Seoul National University	8
+Northwest Missouri State University	8
+Case Western Reserve University	8
+MIT	8
+University of South Carolina-Columbia	8
+Univeristy of Arizona	8
+Peking University	8
+Singapore Management University	8
+The Ross School of Business	8
+Tufts University	8
+Marshall University	8
+Valparaiso University	8
+University of Sydney	8
+University at Buffalo	8
+University of Cambridge	8
+Western Washington University	8
+Macomb Community College	8
+Full Sail University	8
+Saginaw Valley State University	8
+York University	8
+University College Cork	8
+Calvin College	8
+American InterContinental University	8
+Walden University	8
+Cleveland State University	8
+Kalamazoo College	8
+University of Washington	8
+University of Vienna	7
+Rice University	7
+Hope College	7
+Northern Illinois University	7
+University of St Andrews	7
+Texas Christian University	7
+Oregon State University	7
+Royal Holloway, University of London	7
+Grand Canyon University	7
+Portland Community College	7
+Cooper Union for the Advancement of Science and Art	7
+Pepperdine University	7
+University of Colorado at Colorado Springs	7
+The University of Texas at San Antonio	7
+Gonzaga University	7
+Florida International University	7
+Mount Holyoke College	7
+Texas A & M University	7
+California State University-Long Beach	7
+Benedictine University	7
+Maharishi University of Management	7
+gig harbor high school	7
+Portland State University	7
+Quinnipiac University	7
+Northern Michigan University	7
+University of Connecticut	7
+Fordham University	7
+Arkansas State University-Main Campus	6
+Alabama A & M University	6
+Tulane University of Louisiana	6
+Savannah College of Art and Design	6
+Anna University	6
+n/a	6
+Colorado Technical University 	6
+University of San Francisco	6
+The University of Hong Kong	6
+University of Miami	6
+Chapman University	6
+University of Dayton	6
+Boise State University	6
+Western Illinois University	6
+University of Maryland-Baltimore County	6
+Bowling Green State University	6
+Emerson College	6
+University of Oxford	6
+University of Akron Main Campus	6
+University of San Diego	6
+London School of Economics	6
+Gig Harbor High School 	6
+Wisconsin Lutheran College	6
+University of York	6
+Marygrove College	6
+Capella University	6
+Polytechnic Institute of New York University	6
+The Art Institute of Pittsburgh	6
+Southern New Hampshire University	6
+Texas State University-San Marcos	6
+Juniata College	6
+Hanover College	6
+Eastern Illinois University	6
+Penn State	6
+Loyola Marymount University	6
+Concordia University	6
+Shanghai JiaoTong University	6
+University of Missouri-Kansas City	6
+University of Louisiana at Lafayette	6
+Stanford	6
+New York Institute of Technology	6
+Oregon Institute of Technology	6
+University of Louisville	6
+St. Andrew's Episcopal School	6
+Truman State University	6
+Illinois Institute of Technology	6
+Spring Arbor University	6
+DEVRY UNIVERSITY KELLER GRADUATE SCHOOL OF MANAGEMENT	6
+Oberlin College	6
+Virginia Tech	6
+Washington and Lee University	6
+University of Colorado Denver	6
+The Evergreen State College	6
+Chulalongkorn University	6
+University of Arizona 	6
+Denison University	6
+Boston College	6
+Indiana Wesleyan University	6
+Simon Fraser University	6
+University College London	6
+University of Portland	6
+Florida Atlantic University	5
+University of Nebraska-Lincoln	5
+ctu	5
+Kaplan University	5
+Southern Polytechnic State University	5
+Hampshire College	5
+Sha Tin College	5
+George Mason University	5
+D J Sanghvi	5
+College of DuPage	5
+Richard Huish College	5
+University of Oklahoma Norman Campus	5
+Baylor University	5
+Liberty University	5
+Pima Community College	5
+Cornerstone University	5
+Columbia College Chicago	5
+Wheaton College	5
+CUNY New York City College of Technology	5
+Webster University	5
+Johnson & Wales University	5
+Monroe County Community College	5
+American InterContinental University-Online	5
+East Tennessee State University	5
+Santa Monica College	5
+Pacific Lutheran University	5
+Madonna University	5
+CTU ONLINE	5
+LIFE	5
+Kellogg Community College	5
+Claremont McKenna College	5
+UniversityofMichigan	5
+Marist College	5
+Universidade Estadual de Campinas	5
+Massachusetts Institute of Technology (MIT)	5
+Azusa Pacific University	5
+BUET	5
+Pikes Peak Community College	5
+Queen's University of Belfast	5
+Montclair State University	5
+Burnside High School	5
+Brandman University- Part of the Chapman University System	5
+Villanova University	5
+Ithaca College	5
+CUNY John Jay College of Criminal Justice	5
+Illinois State University	5
+Baker College of Clinton Township	5
+Johns Hopkins University	5
+UNCW	5
+Hofstra University	5
+Japan College of Foreign Languages	5
+Otterbein University	5
+Ottawa University	5
+Concordia College at Moorhead	5
+University of Warwick	5
+Wake Forest University	5
+The University of Alabama	5
+Stony Brook University	5
+Humber College	5
+DePauw University	5
+The Pennsylvania State University	5
+SUNY at Binghamton	5
+Belmont University	5
+Northern Arizona University	5
+University of Arkansas	5
+Tuskegee University	5
+Other	5
+Binghamton University	5
+High Point University	5
+Northwood University	5
+Kaplan University-Davenport Campus	5
+Thomas Edison State College	5
+n	5
+Babson College	5
+Adrian College	5
+Old Dominion University	5
+Norwich University	4
+Troy University	4
+Central Washington University	4
+Vassar College	4
+uni	4
+University of Genoa	4
+McGill University	4
+Nanyang Technological University	4
+PlattForm	4
+University of North Carolina at Greensboro	4
+Allegheny College	4
+Simmons College	4
+University of Michigan, Ann Arbor	4
+University of Mississippi Main Campus	4
+University of California, Irvine	4
+Lancaster University	4
+Everest University-Tampa	4
+University of California-Santa Cruz	4
+University of Haifa	4
+The University of Montana	4
+Hampton University	4
+TU Munich	4
+Howard University	4
+Valdosta State University	4
+Youngstown State University	4
+Indiana University-Purdue University-Indianapolis	4
+Ohio Northern University	4
+SUNY College at Buffalo	4
+Pacific Union College	4
+University of Calgary	4
+RIT	4
+Franklin University	4
+National University of Singapore	4
+University of Memphis	4
+Ferris State University	4
+Stevens Institute of Technology	4
+Purdue University	4
+Saint Cloud State University	4
+Colgate University	4
+Bunker Hill Community College	4
+Worcester Polytechnic Institute	4
+E.W. Scripps School at Ohio University	4
+NA	4
+University of Wisconsin-Milwaukee	4
+The University of Texas at Arlington	4
+University of Glasgow	4
+Kettering University	4
+Fairfield University	4
+Avila University	4
+University of South Florida-Main Campus	4
+Grand Rapids Community College	4
+Georgia Institute of Cosmetology	4
+Franklin W. Olin College of Engineering	4
+PTU	4
+Cal Poly Pomona	4
+Wellesley College	4
+University of California Irvine	4
+ESSEC	4
+the university of toledo	4
+Virginia Commonwealth University	4
+Unisinos	4
+California State University, Northridge	4
+Ohio University 	4
+Macon State College	4
+Saint Mary's College	4
+University of Hawaii at Manoa	4
+Amridge University	4
+None	4
+Milwaukee Area Technical College	4
+Elon University	4
+Bentley University	4
+Minnesota State University-Mankato	4
+Baker University	4
+McMaster University	4
+UP Diliman 	4
+University of Michigan 	4
+Delta College	4
+Western Governors University	4
+University of Maryland-University College	4
+Columbia College	4
+Crawley College	4
+The Chicago School of Professional Psychology at Chicago	4
+Dresden University of Technology	4
+San Mateo High School	4
+University of Nevada-Reno	4
+University of Edinburgh	4
+Ludwig Maximilian University of Munich	4
+University of Exeter	4
+Emporia State University	4
+Wuhan University	4
+Gig Harbor Highschool	4
+Cranbrook Kingswood	4
+Utah Valley University	4
+Excelsior College	4
+singapore polytechnic	4
+asdf	4
+Pennsylvania State University	4
+California State University-Los Angeles	3
+Broward College	3
+University of Northern Colorado	3
+Pace University-New York	3
+De La Salle University	3
+Saint Joseph's University	3
+University of California-Merced	3
+Stephen F Austin State University	3
+The Community College of Baltimore County	3
+Swarthmore College	3
+Fayetteville State University	3
+The University of Missouri	3
+   	3
+University of Toledo 	3
+Wayne County Community College District	3
+Colorado Tech University	3
+School of Oriental and African Studies	3
+Hamline University	3
+Boğaziçi University	3
+SUNY at Geneseo	3
+College of the Canyons	3
+UIC	3
+Parsons School of Design	3
+Coventry University	3
+ESSEC Business School	3
+Brigham Young University-Idaho	3
+Rasmussen College-Florida	3
+Albany Law School	3
+A T Still University of Health Sciences	3
+North Dakota State University-Main Campus	3
+Kyiv National Economic University	3
+Millsaps College	3
+Univeristy of Michigan	3
+Muffakham Jah college of Engineering & Technology	3
+University of Michigan- Ann Arbor	3
+univeristy of michigan	3
+Gettysburg College	3
+University of Malaya	3
+Nova Southeastern University	3
+University of Central Oklahoma	3
+Ohio University-Zanesville Campus	3
+University of Puerto Rico-Mayaguez	3
+University of Massachusetts-Lowell	3
+UCLA School of Nursing	3
+Toledo Early College High School	3
+Southern Methodist University	3
+CSULB	3
+Austin Community College	3
+Wuhan University of Technology	3
+university of michigan	3
+Korea University	3
+UC Davis	3
+Hebrew University of Jerusalem	3
+Centre College	3
+Gustavus Adolphus College	3
+University of Wisconsin Colleges	3
+Politeknik Negeri Malang	3
+Earlham College	3
+University of Durham	3
+BMSCE	3
+University of Rhode Island	3
+University of Düsseldorf	3
+Columbus State University	3
+Cranbrook Academy of Art	3
+Seattle University 	3
+College of William and Mary	3
+Lehigh University	3
+North Central College	3
+Mapúa Institute of Technology	3
+University of Hamburg	3
+Lansing Community College	3
+Duquesne University	3
+Minnesota State University-Moorhead	3
+University of Virginia	3
+Univerisity of Michigan	3
+SYSU	3
+Hawaii Pacific University	3
+Ivy Tech Community College-Northeast	3
+Toledo School for the Arts	3
+Jinan University	3
+BTS MCW	3
+University of Alabama at Birmingham	3
+Lynchburg College	3
+Colorado School of Mines	3
+Creighton University	3
+UMKC	3
+Delaware-Chenango-Madison-Otsego Boces	3
+University of Bath	3
+Lamar High School	3
+CTU Online	3
+University of New South Wales	3
+Rhode Island School of Design	3
+Shanghai Jiaotong University	3
+Strathmore University 	3
+Whitman College	3
+Aquinas College	3
+Johnson County Community College	3
+Senac São Paulo	3
+Trinity College	3
+Holy Family University	3
+Maastricht University	3
+University of California-Riverside	3
+University of California, San Diego	3
+Berklee College of Music	3
+School of Visual Arts	3
+Colby College	3
+Sarah Lawrence College	3
+Universiti Teknologi Malaysia	3
+The New School	3
+Teachers College at Columbia University	3
+Union College	3
+Monmouth University	3
+SUNY at Albany	3
+University of Maryland-Baltimore	3
+Brookdale Community College	3
+University of Twente	3
+Houston Community College	3
+Life	3
+Humboldt State University	3
+Istanbul	3
+University of North Carolina at Asheville	3
+Tacoma Community College	3
+Manchester Metropolitan University	3
+Singapore Polytechnic 	3
+University of Houston-Downtown	3
+University of Mannheim	3
+ENSEEIHT	3
+Rutgers University-Newark	3
+Hong Kong University of Science and Technology (HKUST)	3
+Devry University Keller Graduate School of Management	3
+New Jersey Institute of Technology	3
+University of Missouri-St Louis	3
+Virginia State University	3
+Cambridge College	3
+Goddard College	3
+Northwestern Michigan College	3
+Victoria University of Wellington	3
+International Academy of Design and Technology	3
+Clark University	3
+The Arts Institutes International - Kansas City	3
+Henry Ford Community College	3
+Università DI Modena e Reggio Emilia	3
+Smith College	3
+Presidio Graduate School	3
+Adelphi University	3
+Kalamazoo Valley Community College	3
+University of Michgian	3
+University of Nevada-Las Vegas	3
+Michigan State University College of Law	3
+Northwest State Community College	3
+Dalian University of Technology	3
+The Open University	3
+Humboldt University of Berlin	3
+GTU	3
+Bradley University	3
+university of miami	3
+Cabrillo College	3
+The George Washington University	3
+Nichols College	3
+Pasadena City College	3
+Canisius College	3
+Tribeca Flashpoint	3
+University of Phoenix	3
+University of California, Berkeley	3
+sampoerna school of education	3
+Udayana University	3
+Loughborough University	3
+Miami Dade College	3
+WHU - Otto Beisheim School of Management	3
+Mount Saint Mary College	3
+Middle East Technical University	3
+Ohio University-Chillicothe Campus	3
+Lake Superior State University	3
+Baker College of Flint	3
+Welingkar Institute of Management	3
+Western Carolina University	3
+University of Hong Kong	3
+Radford M Locklin Technical Center	3
+Baldwin-Wallace College	3
+University of Alabama in Huntsville	3
+Siena Heights University	3
+University of Vermont	3
+King's College London	3
+St. Edward's University	2
+university of east anglia	2
+John Cabot University	2
+Clarion University of Pennsylvania	2
+Dnipropetrovsk National University	2
+My real Seelio is:	2
+acharya	2
+dsfdf	2
+Stark State College of Technology	2
+UIUC	2
+UIUC College of Engineering	2
+university of california berkeley	2
+University	2
+STMA TRISAKTI	2
+Centennial College	2
+Slovak University of Technology in Bratislava	2
+Arcadia University	2
+University of Illinois	2
+Pennsylvania State Uniersity	2
+Notre Dame Prep	2
+Purdue 	2
+Coursera	2
+National Institute of Technology, Jamshedpur	2
+三江学院	2
+universitas nasional	2
+mhmk	2
+University of Wisconsin-Eau Claire	2
+Euskal Herriko Unibertsitatea	2
+DNU	2
+ITT Technical Institute troy MI	2
+Hobart William Smith Colleges	2
+national university of science and technology	2
+Brite Divinity School	2
+cit	2
+Bryant University	2
+University of Münster	2
+Bits pilani goa campus	2
+india	2
+Punjab Engineering College	2
+Bordeaux 1	2
+gig harbor high school 	2
+IFM	2
+King Saud University	2
+singularity university	2
+UW Parkside	2
+UW Milwaukee	2
+University of Wisconsin-Parkside	2
+Sarvodaya	2
+University of Wisconsin–Milwaukee	2
+Welingkar Institute	2
+St. Catherine University	2
+Alum	2
+St. Mary's Anglo Indian Hr. Sec. School	2
+Tecnologico de Monterrey	2
+METU	2
+Limerick School of Art and Design	2
+Hogeschool Rotterdam	2
+University of International Business and Economics	2
+university of sydney	2
+Queen's University Belfast	2
+United World College of South East Asia	2
+OVIDIUS University	2
+ESADE	2
+International Academy	2
+Lakewood High School	2
+University of St. Gallen (HSG)	2
+concordia	2
+ITHB	2
+Waseda University	2
+Pennsylvania State University-Penn State New Kensington	2
+Christ University	2
+University of Asia and the Pacific	2
+Nottingham	2
+zhejiang normal university	2
+Universitas muhammadiyah yogyakarta	2
+GAFA	2
+Czech Technical University in Prague	2
+Chalmers university of technology	2
+VJTI	2
+Morehouse College	2
+Zhejiang University City College	2
+FCUL	2
+saint mary's university 	2
+Salem State University	2
+Vysoka skola mezinarodnich a verejnych vztahu Praha	2
+Muskegon Community College	2
+Tilburg University	2
+Indonesian State College of Accountancy	2
+Slippery Rock University of Pennsylvania	2
+CMRIT	2
+Hard Knocks	2
+cuhs	2
+humber college	2
+Thadomal Shahani Engineering College	2
+Vocational Training Development Institute	2
+COEP	2
+Viktor Rydberg Gymnasium	2
+Lynn University	2
+South Texas College	2
+Barstow Community College	2
+Guilford Technical Community College	2
+Commonwealth Connections Academy	2
+Universidade Lusiada	2
+American University in Cairo	2
+south of china 	2
+Notre Dame of Marbel University	2
+Omsk State University	2
+Rockhurst University	2
+swiss german university	2
+bsp sector 6	2
+Moscow State University of Railway Engineering	2
+Harry S Truman College	2
+The University of Texas-Pan American	2
+ЧГУ им. Петра Могилы (бывш. НГГУ)	2
+Faculty of political science	2
+Goldsmiths, University of London	2
+W.E.C	2
+安徽大学	2
+university of tsukuba	2
+Górnośląska Wyższa Szkoła Przedsiębiorczości	2
+Colorado Techical University	2
+UNC Chapel Hill	2
+St. Bonaventure University	2
+Hard Knox Collegiate & Vocational	2
+University of Queensland	2
+University of Houston Downtown	2
+UACM	2
+EBS	2
+Universitas Nusa Cendana	2
+Ivey Business School	2
+Butte College	2
+Technische Universität Darmstadt	2
+LMU	2
+Western University	2
+Vincennes University	2
+Otto-von-Guericke University Magdeburg	2
+University of Western Australia	2
+Universidad Nacional de Rosario, Argentina	2
+Institute of Business Administration, Karachi	2
+Institute of Design IN.D	2
+Willmar Ridgewater	2
+北京林业大学	2
+ctu online	2
+Universidade Federal de Goiás	2
+Fulda University of Applied Sciences	2
+Facultad de Teologia Pontificia y Civil de Lima	2
+University of Missouri–Columbia	2
+Pratt Institute-Main	2
+Sheffield Hallam University	2
+ESCP	2
+City University London	2
+sri chaitanya iit academy,raman bhavan 3&4 vjwd	2
+ITA	2
+The Bhawanipur Gujarati Education Society College	2
+Reims Management School	2
+Cardiff University	2
+Istanbul Bilgi University	2
+Vienna Uni.	2
+Universidad de Sevilla	2
+Grenoble School of Management	2
+EAE Business School	2
+Leeds University	2
+NMIMS	2
+Carl von Ossietzky Universität Oldenburg	2
+Technische Hochschule Mittelhessen - University of Applied Sciences 	2
+Lund University	2
+Online	2
+Facultatea de Teatru şi Televiziune, UBB Cluj	2
+EDHEC Business School	2
+Universität Erlangen/Nürnberg	2
+University of Siena	2
+Guilin University of Technology	2
+Faculdade de Letras da Universidade do Porto	2
+Ravensbourne College of Design and Communication	2
+IIT Kharagpur	2
+Miami Ad School-Minneapolis	2
+Curb Your Enthusiasm	2
+DHBW Duale Hochschule Baden-Württemberg	2
+Dubai	2
+Strayer University-Texas	2
+fuckschool	2
+Warwick University	2
+University of Ottawa	2
+University of South Florida-St. Petersburg Campus	2
+Moscow Power Engineering Institute	2
+Freiberg University of Mining and Technology	2
+erasmus unive	2
+School of the Art Institute of Chicago	2
+WSU Police Academy	2
+L'Ecole Culinaire	2
+FOM Hochschule für Oekonomie & Management	2
+Athens University of Economics and Business	2
+Minneapolis Community Tech College	2
+College of Business Studies, University of Delhi	2
+UCC	2
+The Art Institute of Indianapolis	2
+FH Südwestfalen Meschede	2
+Calicut University	2
+Brandeis University	2
+Pontifícia Universidade Católica do Paraná	2
+University of Alabama	2
+Turkey	2
+Birmingham City University	2
+University of Zaragoza	2
+Finance Academy under the Government of the Russian Federation	2
+sciences po	2
+Sinai University	2
+Indiana University-Purdue University Fort Wayne	2
+University of North Florida	2
+Baltimore International College	2
+Katholieke universiteit Leuven	2
+University of Leeds	2
+Erasmus university	2
+presidio graduate school	2
+E. Michigan	2
+Technical University Munich	2
+Bei deiner Mutter	2
+SRM University	2
+bonn	2
+Anglia Ruskin University	2
+University of Sorbonne Pantheon-Assas	2
+Inha Technical Colleage	2
+iit kharagpur	2
+Martin Luther King Gesamtschule Ratingen	2
+Uni Bonn	2
+tenne	2
+Kharkiv National University of Radioelectronics	2
+Renaissance High School	2
+Peak to Peak Charter Sc	2
+Durham university	2
+University of São Paulo	2
+Menlo College	2
+Roskilde University	2
+WHU-Otto Beisheim School of Management	2
+Univerzita Pavla Jozefa Šafárika v Košiciach	2
+The University of Findlay	2
+CTU online	2
+university of tokyo	2
+Colegio Sagrado Corazón	2
+Alma College	2
+Madison High School	2
+kyusyu	2
+Arizona Western College	2
+Trinity College, Dublin	2
+ColoradoTechnical University	2
+UMUC	2
+Lourdes University	2
+Polytechnic Institute of NYU	2
+University of Cape Coast	2
+中央大学	2
+University of New Mexico-Main Campus	2
+adelaide	2
+UFMG	2
+The University of Edinburgh	2
+Faculdade Cásper Líbero	2
+University College Dublin	2
+saint andrews episcopal school	2
+Ideal School And College - Dhaka	2
+University of Tokyo	2
+University of Kassel	2
+Houston Baptist University	2
+University of Bristol	2
+Embry Riddle Aeronautical University-Worldwide	2
+The University Of Toledo	2
+Florida Agricultural and Mechanical University	2
+DigiPen Institute of Technology	2
+University of Liverpool	2
+University of Gig Harbor	2
+UDM	2
+Colorado technical university online	2
+Kushiro University	2
+University of Idaho	2
+The University of Utah	2
+Kellogg School of Management	2
+Harding University	2
+National University of Computer and Emerging Sciences	2
+The Art Institute of Michigan	2
+Governors State University	2
+Ngee Ann Polytechnic	2
+ITT Technical Institute	2
+Southeastern Community College	2
+Administração de Empresas - PUCRS	2
+University of Maine Augusta	2
+Columbia Southern University	2
+Valencia Community College	2
+Sekolah Tinggi Akuntansi Negara	2
+Sinclair Community College	2
+DeVry University-Illinois	2
+The University of Texas at Austin Class of 2016	2
+Murray State University	2
+Millersville University of Pennsylvania	2
+South University-Savannah	2
+Sena	2
+CTU 	2
+Politehnica University Bucharest	2
+University of New Hampshire-Main Campus	2
+Ottawa University 	2
+Southern State Community College	2
+Anne Arundel Community College	2
+University of Cologne	2
+DeVry University-Georgia	2
+FEUP - Faculdade de Engenharia da Universidade do Porto	2
+2016	2
+Schreiner University	2
+[object HTMLInputElement]	2
+Ruhr-Universität Bochum	2
+Bard College	2
+Kentucky State University	2
+Design - USC	2
+Andrews University	2
+ucla	2
+University of Puget Sound	2
+Ohio Center for Broadcasting	2
+Gig harbor highschool	2
+Gig harbor high school	2
+Missouri University of Science and Technology	2
+United States Air Force Academy	2
+University of the Pacific	2
+West Chester University of Pennsylvania	2
+Berlin School of Economics and Law	2
+Central Methodist University-College of Liberal Arts & Sciences	2
+South Plains College	2
+The University of Western Ontario	2
+Data Mining and Knowledge Management at Université Lumière Lyon 2	2
+CUNY LaGuardia Community College	2
+UMK Toruń	2
+New Tribes Bible Institute	2
+Wiley College	2
+연세대학교 (Yonsei University)	2
+Red Rocks Community College	2
+European University Munich	2
+University of California Santa Cruz	2
+Naval Postgraduate School	2
+ETH Zurich	2
+Orange Coast College	2
+Ivy Tech Community College of Indiana	2
+Wydział Prawa i Administracji Uniwersytetu Szczecińskiego	2
+IMC FH Krems	2
+Central Texas College	2
+Magdalen College, Oxford	2
+Timisoara Politehnica	2
+University of Warsaw	2
+CSU Northridge	2
+Barton College	2
+Northeastern Illinois University	2
+singapore	2
+ICHEC Brussels Management School	2
+Jilin University	2
+Riverside Community College	2
+Hocking College	2
+Institut Teknologi Bandung	2
+the University of Toledo	2
+Jawaharlal Nehru Technological University	2
+North South University	2
+上海交通大学	2
+The University of Arizona 	2
+Lincoln Technical Institute	2
+National Cheng Kung University	2
+University of Michigan School of Art & Design	2
+WHU	2
+Howard Community College	2
+Rochester College	2
+North Dakota State University	2
+Crimean-American College	2
+South Lakes High School	2
+UCSB	2
+Central Connecticut State University	2
+FDU	2
+Georgia Institute of Technology College of Engineering	2
+Vance-Granville Community College	2
+Imperial Valley College	2
+ Colorado Technical University	2
+Modern School	2
+Moorpark College	2
+Ashworth College	2
+RMIT University	2
+CUNY Queens College	2
+communication	2
+Seton Hall University	2
+Gujarat Technological University	2
+Kyung Hee University, Korea	2
+Toyo University	2
+akita international university	2
+University of Padua	2
+DeVry University-Missouri	2
+Southwest Baptist University	2
+Pittsburg State University	2
+Kyonggi University	2
+Southeast Technical Institute	2
+Læreruddannelsen I Århus	2
+Universidad de Granada	2
+St. Andrew	2
+International School of Management	2
+Lorain County Community College	2
+Universiteit Maastricht	2
+University of Akron	2
+Technical University of Łódź	2
+Thayer School of Engineering	2
+University of Nebraska at Omaha	2
+Bethel University	2
+Pierce College at Puyallup	2
+Blue Ridge Community and Technical College	2
+Oklahoma State University Institute of Technology-Okmulgee	2
+Montana State University	2
+Cuyahoga Community College District	2
+Clark State Community College	2
+TFA	2
+Terra State Community College	2
+Regis University	2
+amirkabir university of technology	2
+Texas A&M University	2
+Sorbonne	2
+Oxford University	2
+University of Wisconsin-Green Bay	2
+Cape Fear Community College	2
+Prairie State College	2
+BYU	2
+Aurora University	2
+National Tsing Hua University	2
+Ivy Tech Community College-Northwest	2
+Susquehanna University	2
+Politecnico di Milano	2
+Pennsylvania State University-Penn State Erie-Behrend College	2
+Northwest Kansas Technical College	2
+Davenport University	2
+AGH	2
+Cass Technical High School	2
+Brevard Community College	2
+Lone Star College System	2
+University of Southern Mississippi	2
+Harper College	2
+Biola University	2
+Anderson University	2
+Minnesota State University Moorhead	2
+Université Paris Descartes	2
+Whitmer High School	2
+Columbia	2
+Ross School of Business	2
+Miami University	2
+Lakeland Community College	2
+Glasgow	2
+California State Polytechnic University-Pomona	2
+Michigan State University 	2
+CUNY Brooklyn College	2
+Singapore polytechnic	2
+Southern Illinois University Edwardsville	2
+City University of Seattle	2
+CUNY Hunter College	2
+University of Wyoming	2
+Norco College	2
+Carleton University	2
+The University of Southern California	2
+agritulture	2
+Universiti Utara Malaysia	2
+Ohio State	2
+Fudan University	2
+colorado technical university online	2
+Blacksea Technical University	2
+Northern Virginia Community College	2
+Riley College	2
+Mississippi Gulf Coast Community College	2
+dnu	2
+Ridgewater Community College Willmar, MN	2
+CUNY Bernard M Baruch College	2
+Connecticut College	2
+Glasgow Caledonian University	2
+Xavier University	2
+Blue Ridge Community College	2
+PU	2
+university of toronto	2
+American University of Beirut	2
+SJTU	2
+shanghai jiao tong university	2
+Universidade do Sagrado Coração	2
+Avans University of Applied Sciences	2
+Filozofski Fakultet, Univerzitet u Novom Sadu	2
+St. Xaviers College, Maitighar, Ktm.	2
+Rutgers – New Brunswick	2
+Panjab University Chandigarh	2
+Grove City College	2
+University of Sao Paulo	2
+Kendriya Vidyalaya	2
+Guangzhou Academy of Fine Arts	2
+Mercer University	2
+МГТУ им. А.Н.Косыгина	2
+Lamar University	2
+Indian Institute of Technology, Guwahati	2
+Manhattan School of Music	2
+Leiden University	2
+NIT Silchar	2
+Queen Mary University of London	2
+UnCollege	2
+Ohio University-Eastern Campus	2
+Art	2
+open uni	2
+NYU Poly	2
+Osaka University	2
+USC	2
+adsf	2
+bigbug	2
+Humboldt-Universität zu Berlin	2
+Asbury University	2
+dads	2
+University of Maryland	2
+Upenn	2
+Columbia University	2
+UW-Madison	2
+The U of M	2
+dgut	2
+Ross school of business	2
+Kokugakuin University, Japan	2
+University of Ariel	2
+MAD-faculty	2
+College of Charleston	2
+Oklahoma City University	2
+Universitas UPI YAI	2
+Queen	2
+Fort Hays State University	2
+University of Central Missouri	2
+Santa Clara County Office of Education	2
+Farmingdale State College	2
+Blinn College	2
+Mississippi State University	2
+Yuan Ze University	2
+xiamen university	2
+University of Pittsburgh	2
+Gadjah Mada University	2
+american university of beirut	2
+Toledo	2
+Colorado technical university	2
+HKUST	2
+St. Andrews	2
+Chengdu	2
+no school	2
+Arizona	2
+中国民航飞行学院	2
+Graduated	2
+Vellore Institute of Technology	2
+서울대학교	2
+Instituto de Empresa	2
+Portland High School	2
+University of Jordan	2
+City Colleges of Chicago-Malcolm X College	2
+Stantonbury Campus	2
+Barnard College	2
+University of California Berkeley	2
+GetSmarter	2
+Macalester College	2
+SUNY Buffalo	2
+Pontifical Catholic University of São Paulo	2
+Rio de Janeiro State University	2
+Toronto	2
+Vishwakarma Institute of Technology	2
+T.J.	2
+Goethe-Universität Frankfurt	2
+UNIVERSITY OF MANAGEMENT AND TECHNOLOGY	2
+Saint Francis School	2
+University of Nevada, Reno	2
+University of Puerto Rico-Rio Piedras Campus	2
+Pima Medical Institute	2
+University of Applied Sciences Wedel	2
+Trinity International University	2
+Master of Information Technology at Gadjah Mada University	2
+Albany Technical College	2
+hannover	2
+Daniel Webster College	2
+Universidad Politecnica de Puerto Rico	2
+Brookhaven College	2
+University of Cagliari	2
+University of Alaska Anchorage	2
+University College Falmouth	2
+University of Maiduguri - Nigeria	2
+University of Barcelona	2
+Technische Hochschule Mittelhessen, University of applied sciences	2
+Sound Training Centre	2
+Sheridan College	2
+黑龙江大学	2
+Cass Business School	2
+Criminal Justice	2
+Albert schweitzer G	2
+University of Maryland University College	2
+Massausetts College of Liberal Arts	2
+FH Kufstein Tirol	2
+Hult International Business School	2
+Universidad Carlos III de Madrid	2
+Technion - Israel Institute of Technology	2
+La Laguna	2
+SKANS School of Accountancy	2
+Humboldt	2
+na	2
+Colorado College	2
+Universidad granada	2
+Colorado Technicial University	2
+Maricopa Beauty College LLC	2
+Federal University of Paraná	2
+Boston	2
+university college london 	2
+Lourdes College	2
+CTUonline	2
+St. Pölten University of Applied Sciences	2
+Nova Sbe	2
+Trinity College Dublin	2
+Borough of Manhattan Community College/CUNY	2
+DeVry University-Arizona	2
+Bryn Mawr College	2
+Colege	2
+Handong Global University	2
+Central Maine Community College	2
+Post University	2
+Tanjungpura University	2
+Humboldt University Berlin	2
+University of Mumbai	2
+ALBA Graduate Business School, Athens	2
+Universidad Metropolitana	2
+Federal University of Pernambuco	2
+交通学院	2
+University of California Los Angeles	2
+University of Victoria	2
+Carleton College	2
+Western Kentucky University	2
+Yale	2
+John Brown University	2
+i	2
+Grantham University	2
+Provinciale Hogeschool Limburg	2
+UFRGS	2
+UESTC	2
+university of california los angeles	2
+川音成都美术学院	2
+University of Salento	2
+CIT	2
+Wartburg College	2
+Buffalo State College	2
+colorado tech	2
+Katholieke Universiteit Leuven	2
+Iowa State University 	2
+Bay de Noc Community College	2
+Metropolitan State College of Denver	2
+pioneer high school	2
+University Of Texas at Austin	2
+iitu	2
+Católica Lisbon	2
+wonka school	2
+City Colleges of Chicago-Olive-Harvey College	2
+Anna university	2
+Berkeley City College	2
+ Polytechnic Indonesia-Makassar	2
+The Restaurant School at Walnut Hill College	1
+Warren County Technical School	1
+Texas A & M University-Central Texas	1
+Colorado Mesa University	1
+Career Building Academy	1
+HFM Career & Tech Center	1
+Troy University Dothan	1
+Long Ridge Writer's Group	1
+Canada College	1
+University of Roehampton	1
+St. Francis College	1
+Lenoir Community College	1
+MSU	1
+Cal State University San Bernardino	1
+Free university tbilisi	1
+Merrimack College	1
+Fuller Theological Seminary in California	1
+Watkins College of Art Design & Film	1
+University Maryland University College	1
+Strayer University	1
+CET-Watsonville	1
+Tolles Career and Technical Center	1
+Clemson University International Center of Automotive Research	1
+US Army	1
+Jordan Vocational High School	1
+Remington College	1
+Baker College of Port Huron	1
+University of Arkansas Community College-Hope	1
+iupui	1
+Long Branch High School	1
+Colorodo Technical University	1
+Atenas College	1
+Colorodo Technical University Online	1
+Kansas City Kansas Community College	1
+vatterott college sunset hills, mo	1
+Singapore University of Technolgy and Design	1
+TCLI	1
+Moody	1
+penrose academy	1
+Ogle School Hair Skin Nails	1
+Toni & Guy Hairdressing Academy	1
+cheasapeke school of esthethics 	1
+Bucks County Community College	1
+University of South Florida	1
+regency beauty institue-little rock	1
+Piedmont Virginia Community College	1
+ITE College West Dover	1
+Université Laval	1
+SUNY College at Oswego	1
+journeytolife00@gmail.com	1
+SDM-IMD, Mysore	1
+Meredith College 	1
+UT Austin	1
+James Cook University	1
+architectural	1
+Universidad Simón Bolívar	1
+SREE VIDYANIKETHAN ENGINEERING COLLEGE	1
+icai	1
+University of The Gambia	1
+Universary of Phoenix	1
+tribhuwan university	1
+TU Delft	1
+California State University East Bay	1
+IEC- Indepent Electrical Contractors	1
+Western Nevada College	1
+New School of Architect and Design	1
+ctustudentonline	1
+Barkbeck University of London	1
+Amarillo College	1
+Allied American University 	1
+COLORADO  TECHNICAL UNIVERSITY	1
+Tiffin University	1
+Washington & Jefferson College	1
+Nanjing University of Posts and Telecommunications	1
+Bunda Mulia University	1
+Cornell University,undefined	1
+ifaHal	1
+Saint Marys College of California	1
+Mechanical Engineering- University of Michigan	1
+Persian Gulf University	1
+haha University	1
+Tesla university	1
+Wilfrid Laurier University	1
+nankai	1
+jdjfj	1
+University of Michigan at Ann Arbor	1
+demont fort,undefined	1
+amity university	1
+ShanghaiJiao Tong University	1
+Delhi Public School Jalandhar	1
+Mason County Central High School	1
+SUNY at Stony Brook	1
+Medical College of Georgia	1
+Calcutta University	1
+Georgia Tech Class of 2017	1
+University of Toledo,undefined	1
+UNIVERSITY OF BACHLOR	1
+LUCKNOW UNIVERSITY	1
+RAJASTHAN UNIVERSITY OF HERITAGE	1
+MATHURA UNIVERSITY OF ARTS	1
+LUCHNOW UNIVERSITY	1
+ARTS UNIVERSITY	1
+FDDI	1
+UNIVERSITY OF DHAKHA	1
+Obafemi Awolowo College of Health Sciences	1
+dentistry Colombian School	1
+Polytechnic University of the Philippines	1
+Nacional	1
+Libre de Colombia	1
+Universidad del Caribe Republica Dominicana	1
+Shillington College	1
+UNIVERSIY OF ROCHESTER	1
+University of Northern Iowa	1
+Mount Olive College	1
+University of Phoenix-Kansas City Campus	1
+Butler County Community College	1
+Cameron University	1
+Vesid Nassau Day Training	1
+Wayne State University 2001	1
+BITS Pilani, Goa Campus	1
+Fremont Ross High School	1
+John Carroll University	1
+Nustech	1
+ Texas Womans University 	1
+Keio	1
+WGU	1
+United Township	1
+Westminster Theological Centre	1
+ Rio Salado 	1
+Middlebury College	1
+Oxford High School	1
+Oklahoma Baptist University	1
+Goldsmiths	1
+Neuqua Valley High School	1
+Horizon Science Academy Toledo	1
+Bowling Green State University-Firelands	1
+Univ. of Toledo	1
+St.  Xavier High School	1
+Taylor's University	1
+St Mary Catholic Central	1
+Antwerp 	1
+Furtwangen University	1
+Four Years College	1
+Rio Hondo College	1
+University of Texas	1
+Chicago  computer School	1
+Nicolet Area Technical College	1
+Baker Career College	1
+Clark College	1
+National Louis University	1
+University  of Illinois Champaign - Urbana	1
+VSB Ostrava	1
+Howell High School	1
+Elyria Catholic High School	1
+Eastern West Virginia Community and Technical College	1
+mumbai	1
+LSUE	1
+Cranfield University, UK	1
+Michigan State Universtiy	1
+University of Guyana	1
+Everspring	1
+Point Loma Nazarene University	1
+Stautzenberger College	1
+Punahou	1
+Forte Music School	1
+toledo school for the arts	1
+Charles University (Prague, Czech Republic) 	1
+Universy of Toledo	1
+Kelsey Jenney College	1
+West Seattle High School	1
+Kaplan Career Institute	1
+Bassett High School	1
+New Image	1
+Nowhere university	1
+Capitol College	1
+City Colleges of Chicago-Richard J Daley College	1
+Shasta College	1
+Deakin	1
+Pensacola Christian College	1
+Radford University	1
+Delgado Community College	1
+Sardar Patel College of Engineering	1
+Nashville State Community College	1
+Job Corps 	1
+Ivy Tech Comunity College-South Bend	1
+Colordo Technical University	1
+Colarado Technical University	1
+City Colleges of Chicago-Harold Washington College	1
+Hennepin Technical College	1
+Humboldt Universität Berlin	1
+McCormick Theological Seminary	1
+Colorado Technical Unuversity	1
+esade	1
+USC- Universidade do Sagrado Coração	1
+Universidade Federal do Rio de Janeiro	1
+Wittenberg University	1
+College of technology at Abha-Saudi Arabia	1
+purdue university calumet	1
+Lovely Professional University 	1
+Manipal University	1
+Ryle High School	1
+Board of Intermediate & Secondary Education Faisalabad	1
+University of Michigan-Ann Arbor	1
+Dominican College of Blauvelt	1
+Vinton County High School	1
+Southern West Virginia Community and Technical College	1
+U.S. Army Quatermaster School	1
+Texas State Technical College Waco	1
+Defiance College	1
+park	1
+Mesa Community College	1
+Stazenburger College	1
+ Technical University OnlineColorado	1
+University of Washington - Extension	1
+Texas A & M University-Commerce	1
+American motorcycle institute	1
+Adams State College	1
+Citrus High School	1
+Prairie State College, Il	1
+Business Aministation Management 	1
+CTU Onloine	1
+C T U   online	1
+Colorado Techinal University	1
+  C T U  online	1
+UNIVERSITY OF NORTH CAROLINA AT WILMINGTON	1
+University of North Carolina, Wilmington	1
+Colorado Techincal University	1
+Lebanese American University	1
+Queen Mary, University of London	1
+University of Michigan School of Public Health	1
+Harvard/Radcliffe College	1
+National Taiwan University of Science and Technology	1
+Gardner-Webb University	1
+The University of Akron	1
+ECPI University	1
+Winston-Salem State University	1
+Wake Technical Community College	1
+Franklin College Switzerland	1
+UPC ~ BarcelonaTech	1
+Roanoke College 	1
+University of Phoenix-Bay Area Campus	1
+Shippensburg University of Pennsylvania	1
+BITS Pilani	1
+Ohio Wesleyan University	1
+Beijing Institute of Techenology	1
+University of Ohrid	1
+湖北美术学院(专套本)	1
+武汉职业技术学院	1
+American University of Puerto Rico	1
+oklahoma state university	1
+Maricopa Community College System Office	1
+The Art Institute of Portland	1
+Colorado	1
+Bates College	1
+兰州大学	1
+isb	1
+La Sierra University	1
+Lake Michigan College	1
+Penn State University	1
+Dominican University of California	1
+Augsburg College	1
+Rivier College	1
+University of Tasmania	1
+University of the Sciences	1
+Univeristy of Northern Colorado	1
+University of Colorado	1
+Paris Political Science Institute (Sciences Po)	1
+Institut Teknologi Sepuluh Nopember Surabaya	1
+Anna Univeristy, India	1
+Nanjing Univeristy	1
+Brooke H. Delaney	1
+Whittier College 	1
+Bellevue University	1
+Fudan Univerisity	1
+Shandong Career College (China)	1
+NUST	1
+1029 Hal McRae Loop #106	1
+California Academy of Mathematics & Science	1
+Sierra Nevada College	1
+Fonty's PABO	1
+Califonia State University Long Beach	1
+Cascadia Community College	1
+Mission Vista High School	1
+Roosevelt Academy	1
+National and Kapodistrian University of Athens	1
+Ionian University	1
+M.E.S College of Engineering	1
+ESAMC	1
+Mercer County Community College	1
+Huntington University	1
+FET Colleges	1
+Murdoch Uni	1
+Central Piedmont Community College	1
+Yeshivat Lev Hatorah	1
+almeda	1
+University of Limerick	1
+Global Prestasi School	1
+TUT NELSPRUIT BRANCH	1
+ITTT TESOL	1
+Telkom Institute of Technology	1
+xx xxx xxx	1
+Southern Alberta Institute of Technology	1
+Beijing Language and Culture University	1
+www.linkedin.com/pub/anthony-o-sullivan/46/940/a47	1
+Universidad Americana	1
+paramadina	1
+universitas muhammadiyah yogyakarta	1
+NUST School of Electrical Engineering & Computer Sciences	1
+University of Cape Town	1
+Pomona College	1
+TUI University	1
+Shih Chien University	1
+WHU - OttoBeisheim School of Management, Vallendar, Germany	1
+San Diego City College	1
+Malden High School	1
+Hard Knoc	1
+Moscow State University of Instrument Engineering and Computer Science	1
+Indian Institute of technology	1
+Ecole des Sciences de l'Information	1
+cairo university	1
+University of St Thomas	1
+Ryukoku University Graduate School	1
+Rockbridge Seminary	1
+Northern Kentucky University	1
+bogazici university	1
+Muhammadiyah University of Yogyakarta	1
+Bangladesh University of Engg & Tech	1
+PCO M	1
+Manhattan College	1
+University of Hartford	1
+IIT Kanpur	1
+Sri Shakthi Institute of Engineering and Technology	1
+Colorado Springs Early Colleges	1
+Occidental College	1
+Westlake High School	1
+Lomonosov Moscow State University	1
+Shimane	1
+San Marino High School	1
+Bogazici Universitesi	1
+Metropolitan Community College-Kansas City	1
+-	1
+Jaypee Institute of Information Technology	1
+SUNY at Purchase College	1
+Mackenzie	1
+University of Southern Indiana 	1
+CUNY Borough of Manhattan Community College	1
+Lodz University of Technology	1
+Amrita Vishwa Vidyapeetham	1
+FGV-EAESP	1
+Rotterdam School Management	1
+UTS	1
+wfi	1
+Karlsruher Institut für Technologie	1
+Galen University	1
+Osnabrueck	1
+Nijmegen	1
+Hochschule RheinMain	1
+Kean University	1
+VU University Amsterdam	1
+Imperial College	1
+Technical University of Munich	1
+Euromed Marseille	1
+Vienna	1
+University of St. Gallen	1
+FTU2	1
+CFA institute	1
+Rhodes College	1
+Cincinnati Christian University	1
+Singapore	1
+Augsburg	1
+FernUni Hagen	1
+The Manchester Metropolitan University	1
+defence college of aeronautical enineering	1
+Carroll University	1
+University of Applied Sciences St. Pö	1
+Fachhochschule St.Pölten	1
+University of Saint Andrews	1
+Crafton Hills College	1
+Darmstadt University of Technology	1
+panjab university	1
+Miami Ad School	1
+Fachhochschule Bremerhaven 	1
+American River College	1
+Vienna University of Technology	1
+IKIU	1
+Central European University	1
+Universidad San Ignacio de Loyola	1
+Rouen Business School	1
+HEC Paris	1
+Düsseldorf	1
+University of Dubai	1
+Maine Maritime Academy	1
+University of kent	1
+Stockholm	1
+Corvinus	1
+Bocconi	1
+Dallas County Community College District	1
+ Siena Heights University 	1
+Memorial University of Newfoundland	1
+Fullerton College	1
+Faculty of Finance, Muenster	1
+Presidio Graduate Schoo	1
+华南农业大学	1
+bergen	1
+San Francisco Art Institute	1
+Sorbonne, Paris	1
+Idaho State University	1
+Field Placement: Guidence Center: Kids-TALK CAC 	1
+Goethe-University Frankfurt am Main, Germany	1
+Otto-Friedrich-Universität Bamberg	1
+Madan Mohan Malaviya Engineering College	1
+The Universtiy of Findlay	1
+St. Andrew's 	1
+Metropolitan Community College-Maple Woods	1
+Unity High School	1
+St. Andrews Epsicopial School	1
+St Andrew's Episcopal 	1
+European Graduate School	1
+Educator	1
+CAMBRIDGE UNIVERSITY	1
+University of Southern Hillsdale	1
+University of Tasmania 	1
+ISM University of Management and Economics	1
+Oklahoma State University	1
+The university of Toledo	1
+University of Utrecht	1
+university saar	1
+University of Michgan-Flint	1
+Fire Academy	1
+maharishi dayanand	1
+State University – Higher School of Economics	1
+Thai - Nichi Institute of Technology	1
+E.L Bowsher High School	1
+BPP	1
+Otto-von-Guericke Universität Magdeburg	1
+Preston University	1
+Springfield Catholic High School	1
+UNIVERSITY OF TOLEDO	1
+Hackbright academy	1
+Heriot-Watt University	1
+trinity	1
+University of Nevada, Las Vegas (USA)	1
+Minneapolis Community and Technical College	1
+Université de Perpignan Via Domitia	1
+Fu Jen Catholic University	1
+Cork Regional Technical College, Cork Ireland	1
+universitas negeri padang	1
+Shanghai Institute of Technology	1
+Multimedia University Cyberjaya	1
+Atlanta Technical College	1
+St. Mary's Seminary & University	1
+Monash University	1
+Universität Mainz	1
+Cal State University, Northridge	1
+Charles University, Prague, Czech Republic	1
+State University Of New York at Buffalo	1
+shanghai	1
+Universidade Metodista de São Paulo	1
+CSKHPKV	1
+São Camilo University Center	1
+FATEC - Tecnology College of São Paulo	1
+University of Granada	1
+lcc	1
+Montgomery College 	1
+IBTA - Instituto Brasileiro de Tecnologia Avançada	1
+mackenzie	1
+Adam Mickiewicz University, Poznan, Poland	1
+Universidade Braz Cubas	1
+University of toledo	1
+Texas A&M university	1
+Nova SBE	1
+Royal Roads University	1
+Cal State San Bernardino TESOL Programs	1
+Technical University Iași, Romania	1
+University of Nebraska	1
+中央美术学院附属高中	1
+ufrgs	1
+123	1
+mdu-rohtak	1
+Heritage College-Oklahoma City	1
+VSAT and Network engineer	1
+Harold washington College	1
+Hubbard high school	1
+NIT Bhopal	1
+Westminster School	1
+Gig Harbor High Schoool	1
+University of Gig harbor	1
+Gig HArbor High School	1
+The Hong Kong University of Science and Technology Local UG Admissions	1
+NEOMA Business School - Campus Rouen	1
+Georiga tech	1
+The University of Texas at Brownsville	1
+State University of New York IT	1
+Université Bordeaux Montaigne	1
+Studied at the Indian School of Business	1
+Eastern Kentucky University	1
+John Wood Community College	1
+Indian River Community College	1
+University of Durham 	1
+DeVry 	1
+PTPL College  Shah Alam, Malaysia	1
+Penn Foster 	1
+Concorde Career Institute	1
+Dale Carnage	1
+Ivy Tech Indianapolis	1
+Equal Opportunity Leaders  Course	1
+Christian Brothers University	1
+mayo vocational school	1
+Webster University-Leiden	1
+Concorde Career College	1
+West Los Angeles College	1
+CTU ONLINE 	1
+University of Malta	1
+Queensland University of Technology	1
+University of Michigan School of Music, Theatre, and Dance	1
+SUNY at buffalo	1
+Truckee Meadows Community College	1
+E.W. Scripps School of Journalism, Ohio University	1
+University of Massachusettts Amherst	1
+ohio university 	1
+National University of Mongolia	1
+Indian Institute of Technology Bombay	1
+Scripps Communication College	1
+Elgin Community College	1
+York College / CUNY	1
+Akademi Meteorologi & Geofisika	1
+Dr.Babasaheb Ambedkar Technological University	1
+Pickerington North High School	1
+Gig Harbor Highschool 	1
+London Metropolitan University	1
+Gig Harbor highschool 	1
+Hawaii Institute of Hair Design	1
+Padjadjaran University	1
+nhcc	1
+Georgetown University School of Foreign Service in Qatar	1
+University of Economics and law	1
+Palm Beach State College	1
+Job Traing Parternership Act	1
+Ross Medical Center Oak Park, MI	1
+George C Wallace State Community College-Selma	1
+Colorodo Tech University	1
+Gateway Technical College	1
+ITT Technical Institute-Liverpool	1
+University of Lethbridge	1
+Allen School-Brooklyn	1
+Bethune-Cookman University	1
+Heritage Christian University	1
+ALCORN STATE UNIVERSITY	1
+suny delhi	1
+No Answer	1
+University of Melbourne	1
+keiser university- Melbourne FL	1
+Millburn Senior High School	1
+institut pertanian bogor	1
+Sun Yat-Sen University	1
+school of information	1
+Birkbeck University of London	1
+Petra Christian University	1
+Wyman Elementary School	1
+Some College	1
+Carson Highschool	1
+College of Technology; Dammam Saudi Arabia	1
+Michigan Technoligical University	1
+Mount St. Joseph University	1
+Mighigan Technological University	1
+Seoul National University of Science and Technology	1
+Loyola University New Orleans	1
+Prairie View A&M	1
+Institute of Culinary Education	1
+Acting Studio	1
+suscc	1
+Colrado Technical University	1
+CalState	1
+Shepherd University	1
+British Columbia Institute of Technology	1
+University of Tennessee Health Science Center	1
+Oklahoma Panhandle State University	1
+Dalhart High School	1
+ECPI College of Technology	1
+Colorado Technnical University-Social Sciences	1
+West Virginia Wesleyan College	1
+jinnah university for womens	1
+ University of Hong Kong	1
+PAMANTASAN NG LUNGSOD NG MAYNILA	1
+Johnson & Wales University 	1
+UNC WILMINGTON 	1
+Wayne Community College	1
+Austin Community College District	1
+SV university	1
+California State University-Fresno	1
+UNC Wilmington	1
+Guetto da street	1
+Detroit Country Day School	1
+WW-P High School North	1
+Morehead State University	1
+University of Riau	1
+The University of Maryland	1
+East Hartford High School	1
+Anthem Collge Online	1
+Notre Dame University	1
+American Public University	1
+Saint Paul College - A Community and Technical College	1
+RTU	1
+Meridian Community College	1
+University of Central Arkansas	1
+Colorado Technical University Denver	1
+berkeley	1
+University of Wisconsin Oshkosh 	1
+Douglas J Aveda Institute	1
+Roanoke College	1
+BA in Econ	1
+IMO STATE UNIVERSITY OWERRI	1
+Tsinghua	1
+Frank Black	1
+UMass Boston	1
+HEC	1
+Southwestern Baptist Theological Seminary	1
+Goldsmith	1
+Universidad Mariano Gálvez de Guatemala	1
+Wayne State College	1
+Saint Thomas Aquinas University	1
+Walla Walla University	1
+China art academy 	1
+I Recruit U	1
+CUNY The City College of New York 	1
+malaga	1
+osmania	1
+Logan College of Chiropractic	1
+New Mexicco Institute of Mining and Technology	1
+NHTI-Concord's Community College	1
+UCCS	1
+ITT	1
+University of Ife	1
+Colorado Technical  University Online	1
+Royal Holloway University of London	1
+Grand Canyon Univserity	1
+macquarie university	1
+Dongduk Women's University	1
+Hunan Normal University	1
+Georgia Institute of Technology-Main Campus,undefined	1
+Concordia University Irvine	1
+Wherever	1
+FHSU	1
+Dowling College	1
+University of Michigan College of Engineering	1
+Art Academy of Cincinnati	1
+Northsouthern University	1
+Mercy College of Northwest Ohio	1
+Bombay University	1
+institut teknologi nasional	1
+kyoto institude of technology	1
+national university singapore	1
+Soka University of America	1
+Carroll Community College	1
+Baker College Corporate Services	1
+Joe Kubert School of Cartoon and Graphic Art	1
+umich	1
+punjab 	1
+cardiff university	1
+Birla Institute	1
+Birla Institute of Management	1
+JAMMU & KASHMIR UNIVERSITY	1
+guru nanak dev university	1
+MADRAS UNIVERSITY OF ARTS	1
+HARYANA UNIVERSITY	1
+KANPUR UNIVERSITY OF LEATHER	1
+Colombia National University	1
+DELHI UNIVERSITY	1
+PUNE ENGINEERING UNIVERSITY	1
+PUNE UNIVERSITY OF MANAGEMENT	1
+AGRA UNIVERSITY	1
+MITHIBAI UNIVERSITY	1
+AMITHY UNIVERSITY	1
+UNIVERSITY OF ARTS IN DELHI	1
+COLLAGE OF ARTS	1
+BIHAR UNIVERSITY	1
+UNIVERSITY OF HOSPITALISATION	1
+Kennesaw State University	1
+gatech	1
+Eckerd College	1
+Tecnical Univercity Of Ukraine (KPI)	1
+University of the Philippines , Diliman Quezon city	1
+Universidad Nacional de Colombia	1
+National University of Ireland Galway	1
+Montana Bible College	1
+Cedar Valley College	1
+Swinburne University of Technology	1
+the new school	1
+NFC IET Multan	1
+Helwan university Egypt	1
+RV college	1
+universiti utara malaysia	1
+Manhattan Area Technical College	1
+Lyon College	1
+No school	1
+Georgia Southern University	1
+University of Ulster	1
+Université Strasbourg III	1
+Southwestern College, KS	1
+Connors State College	1
+SGSITS	1
+American Global International 	1
+University Of Mumbai	1
+UEA	1
+Unversity of Texas at Austin	1
+north southern	1
+DIAT	1
+Leuphana Universität Lüneburg	1
+Kumaraguru College of Engineering	1
+City College Of Chicago	1
+Guangdong University of Technology(Guangzhou)	1
+TU Dortmun	1
+Bowsher	1
+Seneca East	1
+SSR Medical College	1
+Kendall College of Art and Design	1
+INSEEC	1
+Cuyahoga Community College	1
+Maumee Valley Country Day School	1
+Miami East	1
+ashley community schools	1
+youth nation	1
+solon high school	1
+Copley High School	1
+Michigan Virtual School	1
+Michigan Virtual University	1
+University of southern california	1
+Unversity of Toledo	1
+Towson University Honors College	1
+Plymouth	1
+Univ of Mayland	1
+Harvard Extension School	1
+Eastern Florida State College	1
+anna university	1
+Cork Institute of Technology	1
+Hillsong International Leadership College	1
+Univseristy of Texas at Austin	1
+Loveland High School	1
+Bridge Valley Community and Technical College	1
+University Mackenzie 	1
+Ohio University Heritage College of Osteopathic Medicine	1
+chongqing	1
+College of Lake County	1
+Saint Louis University	1
+University of Essex	1
+St Clair County Community College	1
+Lake Central High School	1
+University of Wisconsin-Stout	1
+North Central Michigan College	1
+Devry Advanatge Academy	1
+Jacksonville State University	1
+HIllsong International Leadership College	1
+University of Saint Francis-Fort Wayne	1
+University of Rio Grande	1
+Univerisity of MIchigan - Dearborn	1
+Le Laboratoire de Formation au Théâtre Physique	1
+The University of Tennessee at Chattanooga	1
+Tribeca flashpoint Academy 	1
+Southern Polytechnic State University-SPSU	1
+Colorado Technical University (online)	1
+Dodge City Community College	1
+George Wallace/Sparks State Technical College	1
+Claflin University	1
+Orangeburg Calhoun Technical College	1
+Salina Area Technical College	1
+Francisco de Paula Santander University	1
+Community College of Vermont	1
+Kocaeli University	1
+LeTourneau University	1
+Platt College 	1
+colorodo technical university	1
+Navajo Technical University	1
+Dine College	1
+colorado technical university online 	1
+Jones College-Jacksonville	1
+sudan university of science and technology	1
+Maryland Institute College of Art	1
+Heald College-Modesto	1
+Chaminade High School	1
+Purdue University-North Central Campus	1
+Bainbridge State College	1
+Kickass University 	1
+Trinity Christian College 	1
+University of the West Indies	1
+National Institute of Technology (NIT), Rourkela	1
+Jordan University of Science and Technology	1
+National institute of technology karnataka,Surathkal	1
+School of Social Work	1
+Stonehill College	1
+ctuonline	1
+ohio	1
+Pontificia Universidad Javeriana Cali	1
+National university of singapore	1
+Seychelles Polytechnic	1
+Aleppo university	1
+Univerity of Michigan	1
+University of Michigan - Stephen M. Ross School of Business	1
+Fairfield Methodist School (Secondary)	1
+Union High School	1
+Cambria Rowe Business College	1
+Stratford Career Institution	1
+Colorado Technicial University 	1
+Apollo College	1
+Moraine Valley Community College	1
+Woodrow Wilson High School	1
+SRM University,India	1
+United States Army	1
+Ngee Ann Polyechinc	1
+Grambling State University	1
+SUNY College at Oneonta	1
+Finger Lakes Community College	1
+Stephen M. Ross School of Business	1
+ CTU	1
+Texarkana Tx. 	1
+C.T.U.	1
+ITT Technical Institute-Earth City	1
+Hanyang University ERICA	1
+Beijing University of Posts & Telecommunications	1
+Minor	1
+University of Texas Pan-American	1
+Harvard College	1
+Ursinus College	1
+University of kerala	1
+The University of Southern Mississippi	1
+Isfahan technical university	1
+Amherst College	1
+Hong Kong University	1
+O'More College of Design	1
+Kangwon National University	1
+University of Malaya (UM)	1
+University of Pennsylvania 	1
+Berkeley College	1
+MOnash	1
+School of Planning & Architecture	1
+Yildiz Technical University	1
+Universidade Federal de Pelotas	1
+FIDM/Fashion Institute of Design & Merchandising-Los Angeles	1
+USC & LSE	1
+Academia Dicipulos de Cristo	1
+Armstrong Atlantic State University	1
+Sir Syed University Of Engineering & Technology	1
+California Polytechnic State University Pomona	1
+Fairleigh Dickinson University-Metropolitan Campus	1
+Nanyang Normal University	1
+Siena College	1
+My University	1
+Corcoran College of Art and Design	1
+南京师范大学	1
+Rose-Hulman Institute of Technology	1
+University of Bath, United Kingdom	1
+Los Angeles Trade Technical College	1
+St. Olaf College	1
+Appalachian State University	1
+Judson University	1
+Spencerian College-Lexington	1
+Wilmington University	1
+Austin Peay State University	1
+Semester at Sea	1
+University Texas-Pan American	1
+Birla Institute of Technology and Science	1
+Black Hills State University	1
+National Chengchi University	1
+Cal Poly State University San Luis Obsipo	1
+uga	1
+El Camino Community College District	1
+St. John's University	1
+Gino Corrales-Delgado	1
+University of MIchigan	1
+University of Mary Hardin-Baylor	1
+University of Science and Technology of China	1
+Zaozhuang University (China)	1
+Pancasila University	1
+University of Tampa	1
+University of California Los Angeles 	1
+Visvesvaraya Technological University	1
+University of Palangka Raya	1
+university of edinburgh	1
+Koning Willem 1 College	1
+Hogeschool Utrecht	1
+ST Margaret Engg College	1
+Universitatea de Stat din Moldova	1
+Politecnico di Bari	1
+Pondicherry University	1
+University of Torino	1
+University of Crete	1
+uc davis	1
+catc	1
+University Of Petroleum & Energy Studies (UPES)	1
+Danish Institute of Study Abroad	1
+SMA Darul 'Ulum 2	1
+University of Massachusetts Lowell	1
+University at Albany	1
+Chelsea School District	1
+La Cite Collegiale	1
+University of Puerto Rico	1
+Novi High School	1
+sri indu College of Engineering and Technology	1
+Ahmad Dhani School of Rock	1
+Dalian Universite of Technology	1
+Kurukshetra University	1
+Yeditepe University	1
+Brooklyn College	1
+Salem High School	1
+Universidad de Malaga	1
+Abilene Christian University	1
+University of Michigan Law School	1
+Chinese Culture University	1
+Metropolitan State University	1
+sdasdasd	1
+I love	1
+michigan	1
+university of michig	1
+UMD	1
+portland state university	1
+Lindenwood University	1
+YADIKA-2	1
+the george washington university law school	1
+unviersity of michigan	1
+North Georgia College & State University	1
+Clown School	1
+IIUI	1
+California State University-Pomona	1
+University of California San Diego	1
+West University of Timisoara	1
+ACCA 	1
+厦门大学	1
+itb	1
+Wageningen UR	1
+Fumec	1
+Ryukoku University	1
+Nanjing Normal University	1
+UMC	1
+Caldwell College	1
+Sonoma State University	1
+Surabaya State University	1
+Sacred Heart Church Horicon	1
+University of Windsor	1
+University of Hull	1
+Queen's University	1
+California State University, Stanislaus	1
+Oxford	1
+State University of New York at Geneseo	1
+UNIVERSITY	1
+islamic university of indonesia	1
+浙江工业大学	1
+University of St.Gallen	1
+Orchard Lake St. Mary's 	1
+South Dakota School of Mines and Technology	1
+Ramnarain Ruia College	1
+Kwame Nkrumah University of Science and Technology, Kumasi	1
+delhi pu	1
+IIT Bombay	1
+Al-Hikmah University	1
+University of Pittsburgh-Johnstown	1
+Delhi Private School, Sharjah	1
+DeVry University - Colorado	1
+Fielding Graduate University	1
+Dublin City University	1
+leeds	1
+Imperial college	1
+ESB Business School Reutlingen/Germany	1
+Universidad de los Andes, Colombia	1
+New Jersey City University	1
+Heinrich-heine 	1
+University of Tennessee	1
+SRH University Heidelberg	1
+Technical Un	1
+loughborough	1
+Indiana Tech	1
+magdeburg	1
+Cologne University of Applied Sciences	1
+Universität Bonn	1
+the hague university	1
+University of Applied Science Bremerhaven	1
+germany	1
+Hebrew university of Jerusalem	1
+Zeppelin University	1
+Gdansk University of Technology	1
+Erfurt	1
+University of Zurich	1
+U. Porto	1
+Vienna University of Economics and Business	1
+other	1
+EM Lyon	1
+West Virgina University 	1
+London University	1
+Bad honnef	1
+Elektronski fakultet Nis	1
+University of Nis, Serbia	1
+Centro Escolar University	1
+Hamburg	1
+Donetsk National University	1
+stockholms universitet	1
+dharmsinh desai university	1
+wien	1
+De Montfort University	1
+Stocholm School of Economics	1
+Event-Akademie Baden-Baden	1
+kassel	1
+Roger Williams University	1
+Algonquin Regional High School	1
+University of New Mexico	1
+dr.ambedkar institute of technology	1
+Santiago de Cali	1
+New York Institute of Technology (NYIT)	1
+Jeju National Universiy	1
+university of twente	1
+University of Minnesota-Crookston	1
+武汉理工大学	1
+Cambridge	1
+saint andrews 	1
+St. Andrews 	1
+NyIt 	1
+FPT UNIVERSITY	1
+imperial college london	1
+Aston Business School	1
+LAN 	1
+University of Mary Washington	1
+University of Alaska Fairbanks	1
+Univesity of Michigan	1
+PLC Sydney	1
+International Business College	1
+Birbeck College	1
+Vilnius university	1
+Bucknell University	1
+Queens University of Charlotte	1
+John B. Connally High School	1
+-----	1
+The Master's College and Seminary	1
+Brunel University	1
+Universidad Nacional de La Plata	1
+University of Massachusetts Boston	1
+University of Economics	1
+Williston State College	1
+SciencePo	1
+J. Mack Robinson College of Business	1
+Gannon University	1
+경희대학교(Kyung Hee University) 페이지	1
+Universitas Muhammadiyah Yogyakarta	1
+Rowan University	1
+Chungnam	1
+Kenyon College	1
+Oxford Brookes University 	1
+Cebu Technological Universtity 	1
+Toledo Public Schools Adult & Continuing Education	1
+Universidade Presbiteriana Mackenzie	1
+Everest Institute 	1
+Southfield Lathrup High School 	1
+Johnson & Wales University-Denver	1
+Westen Michigan University	1
+Federal University of Rio de Janeiro	1
+Oswaldo Cruz College	1
+Universidade Aberta	1
+University of Louisiana Lafayette	1
+PUC	1
+广州大学	1
+Universityof Toledo	1
+Baker College of Owosso	1
+State university of managmant	1
+Fordham University 	1
+SENAC	1
+Williams College	1
+El Santuario High School	1
+ferdowsi university of iran	1
+University of Cincinnati	1
+Universidad de Sonora	1
+kingston	1
+Faulkner University	1
+USST	1
+Beijing University of Technology	1
+UNSW	1
+North Southern Unviersity	1
+Hanyang University	1
+MG University	1
+Embry Riddle Aeronautical University-Prescott	1
+unesp assis	1
+University of Technology, Jamaica	1
+University of Maine at Farmington	1
+Hillsborough Community College	1
+CSUN	1
+Cairo, Egypt	1
+the university of michigan	1
+Heritage Institute-Ft Myers	1
+University of Minnesota 	1
+upenn	1
+uci	1
+Morgan State University	1
+Sandersville Technical College	1
+International University - Vietnam National University HCMC	1
+University of Washington-Tacoma Campus	1
+University of Chinese Academy of Sciences	1
+basement	1
+Bainbridge Graduate Institute	1
+Gig Harbor High	1
+Cornish College of the Arts	1
+Western Oregon University	1
+TCC 	1
+University of North Dakota	1
+University of Texas @ Austin	1
+Hong Kong University of Science & Technology	1
+European business school of Paris	1
+Accademia di Belle Arti di Roma	1
+university	1
+Calicut	1
+Purdue University-West Lafayette	1
+Regent University	1
+UNCC	1
+Philadelphia University	1
+UDG	1
+ecole superieure de commerce de sfax	1
+Century Community and Technical College	1
+Everest University-South Orlando	1
+State University of New York	1
+California 	1
+NE Oklahoma	1
+York County Community College	1
+St Charles Community College	1
+Coloardo Technical University	1
+Colorado Technical University. 	1
+Montbello High	1
+Department of the United States Army	1
+Basic Healthcare Administration Course	1
+Hazardous Materials Transportation Communication Training	1
+United States Army Surgical Technologist Course	1
+U.S. Army Chemical Specialist SChool	1
+Ridgewater College	1
+LeMoyne Owen College	1
+Edmonds Community College	1
+JCCC	1
+Pensacola State College	1
+Sir Syed University of Engg. & Tech.	1
+Honest Buildings University	1
+Saint Leo University	1
+Antelope Valley College	1
+Intellitec Medical Institute	1
+Argosy University-Phoenix	1
+Insignis Business School	1
+Ivy Tech Community College-Kokomo	1
+ENIT Tunis	1
+Oak Harbor High School (Ohio)	1
+Butler University	1
+Montgomery County Community College	1
+Scripps  College of Communication	1
+Ohio University E.W. Scripps School of Journalism	1
+St.Francis Institute of Technology	1
+Brookfield Central Middle High 	1
+Narsee Monjee College of Commerce and Economics	1
+Southern University at Shreveport, LA	1
+Purdue University Calumet 	1
+Misericordia University	1
+UAB	1
+University of Houston-Clear Lake	1
+State University of New York at New Paltz	1
+Waverly High School	1
+The University of North Carolina at Greensboro	1
+Holy Name High School	1
+The Richard Stockton College of New Jersey	1
+Winona State University	1
+Windward Community College	1
+Community College of Allegheny County	1
+School of Hard Knocks	1
+Dark Horse Institue	1
+La Sapienza, Rome	1
+Gig harbor High School 	1
+Hong Kong Polytechnic University	1
+The Uiversity of Toledo	1
+University of Michigan School of Social Work 	1
+National Institute of Agricultural Marketing	1
+Hinds College	1
+Flathead Valley Community College	1
+Detroit Business Institute-Southfield	1
+University of Arkansas at Pine Bluff	1
+ITT Technical Institute-Indianapolis	1
+Metropolitan Community College-Penn Valley	1
+Colorado Technoligical Universiry	1
+Central Ohio Tecchnical College	1
+Colorado Tehnical University	1
+International Bible College	1
+Escola Superior de Enfermagem de Angra do Heroísmo	1
+Oakland-Craig	1
+Lafayette General Medical Center Nursing School	1
+City Colleges of Chicago-Wilbur Wright College	1
+Rend Lake College	1
+St Leo University	1
+Institute of Business Management	1
+Pasig City Science High School	1
+Prarrie View A&M	1
+University of Michigan- School of Social Work	1
+National University of Sciences and Technology-Islamabad	1
+West Texas A & M University	1
+ege 	1
+Blue Ridge/UNC/Everest	1
+North Garland High School	1
+Brock University	1
+University of Westminster	1
+Obafemi Awolowo university,ile ife	1
+FH Salzburg	1
+Thornewood University	1
+Olympic College	1
+Eastern Connecticut State University	1
+Southwest Community College	1
+Professional Institute of Technology and Accounting	1
+Southern Union State Community College	1
+Louisiana Technical College - MS Branch	1
+College of Notre Dame of Maryland	1
+Colorado Technical Unversity Online	1
+Elk Grove High School	1
+Polytech Montpellier	1
+Aalto University	1
+Southern Nazarene University	1
+Rio Salado Community	1
+Die Medienakademie	1
+U.S. Army Training and Doctrine	1
+South Carolina State University	1
+Torchbearers Bible School	1
+Mohave Community College	1
+Parsons	1
+Universidad de Barcelona	1
+Indian Institute of Technology Madras	1
+rrk school	1
+Universita di Bologna	1
+Lake Erie College	1
+Indiana University Northwest	1
+University of NC at Wilmington	1
+College of the North Atlantic	1
+Potomac State College of West Virginia University	1
+Southern Illinois University Carbondale	1
+Pima Community College 	1
+Harbin	1
+Lake Forest College	1
+UHCL	1
+Saint Louis Community College	1
+Purdue	1
+Herzing University	1
+Southern University and A & M College	1
+ITU Online Training 	1
+WVA Technology University	1
+Renton Technical College	1
+Baran Institute of Technology	1
+Univeral Technical Institute	1
+Harrison College-Indianapolis	1
+University of Phoenix-Sacramento Valley Campus	1
+AOU	1
+Blackfeet Community College	1
+Ivy Tech Community College-East Central	1
+University of La Verne	1
+Colorado Technical universit	1
+Manipal Institute of Technology	1
+ITT Techinal Institute	1
+Temasek Polytechnic Singapore	1
+Hagerstown Community College	1
+Frostburg State University	1
+Six Red Marbles	1
+Ohio State University-Marion Campus	1
+The Chinese uninverisity of hong kong	1
+Hinds Community College	1
+Regency Beauty Institute- Detroit Lakeside	1
+university of st thomas	1
+Empire Beauty School	1
+Ocean County College	1
+West Bloomfield High School	1
+university of pune	1
+State University of Ceará	1
+asd!	1
+ferdowsi mashhad	1
+Metrocamp	1
+Pu rdue	1
+North Georgia Technical College	1
+empire beauty school	1
+Indian Institute of Information Technology, Design & Manufacturing 	1
+Cor Jesu College	1
+Huron High School	1
+VNIT	1
+California State University East Bay; Stanford University	1
+University of California at Berkeley	1
+IIT Delhi	1
+Averett University	1
+Clark Atlanta University	1
+Georgia Perimeter College	1
+C.T.U	1
+nanchang university	1
+gtu	1
+Penn State/Shadyside Hospital Radiology Program	1
+Carlifornia Institute Of Technology 	1
+Maumee valley CDS	1
+University of West Indies at St. Augustine	1
+smk fomra 	1
+JNTU	1
+UFMT	1
+Boston Architectural College	1
+Halifax Community College	1
+Florida Gulf Coast University	1
+miramar high	1
+UGA	1
+1985	1
+Baylor	1
+UConn	1
+Islamic Azad University	1
+2006	1
+jhfjf	1
+The University of Melbourne	1
+shanghai jiaotong university	1
+Sharif University of Technology	1
+msu	1
+UWCSEA	1
+tsinghua	1
+San Diego Continuing Education	1
+The Master	1
+Fredrick and Charles Beauty College	1
+st teresas	1
+Amity International Business School	1
+Manipal	1
+Shiloh High School	1
+ICFAI  business school	1
+Apeejay College	1
+PATNA UNIVERSITY	1
+LALA LAJPAT RAI UNIVERSITY	1
+J&K UNIVERSITY	1
+UDHAMPUR UNIVERSITY	1
+GUJRAT UNIVERSITY	1
+MADRAS UNIVERSITY	1
+CHANDHIGARH COLLAGE OF ACTING	1
+Kiev Polytechnical Institute	1
+Willamette University	1
+The University of North Carolina at Greensboro - UNCG	1
+Lafayette College	1
+Grenoble university France	1
+The University Of Kansas	1
+University of Phoenix  St Louis Campus	1
+Art History 	1
+SUNY Institute of Technology at Utica-Rome	1
+Technical Career Institutes	1
+St Teresa	1
+Missouri Western State University	1
+University of Technology Sydney	1
+Shandong University	1
+GW	1
+enginerring	1
+Bharathiyar University	1
+Broward	1
+The university of arizona 	1
+UIN Jakarta 	1
+Pusan National University 	1
+Waite High School	1
+Bakersfield College	1
+Holyoke Community College	1
+Phonix Academy	1
+Genoa Area High School	1
+DeVry University-Ohio	1
+Pines City Educational center	1
+stivers school for the arts	1
+Crestview 	1
+PebblePad	1
+university of tooledo	1
+St. Xavier High School	1
+Mesa State College	1
+National-Louis University	1
+George C Wallace Community College-Dothan	1
+Stevens-Henager College	1
+West Shore Community College	1
+Western Connecticut State University	1
+The Hong Kong Polytechnic University	1
+Tribeca	1
+NorthWest Arkansas Community College	1
+Vermont College of Fine Arts	1
+Edinboro University of Pennsylvania	1
+Urbana University	1
+Korea National University of Arts	1
+Nicolet Bible Institute	1
+The university of michigan 	1
+University Of Toledo 	1
+Medina County Career Center	1
+McHenry County College	1
+University of Michigan School of Social work 	1
+University of Huddersfield	1
+Livonia Stevenson High School	1
+Los Angeles Film School	1
+College of Mount St. Joseph	1
+Chicago Colleges of Chicago	1
+Tribeca Flashpoint 	1
+Wagner College	1
+Merz-Akademie	1
+Master of Project Management Degree	1
+Saint Joseph High School	1
+Univeristy Of Michigan	1
+Anthony Schools	1
+Colorado Technical University Online 	1
+Seattle Pacific University	1
+colorado technical university	1
+CUNY Bronx Community College	1
+MMTC	1
+Columbia Gorge Community College	1
+USM	1
+Colorodo Tec	1
+National University	1
+Virginia College	1
+Colorada Technical University	1
+art	1
+Pennsauken High School	1
+California State University - Dominguez Hills	1
+Eastern Michigan University 	1
+American Military University	1
+Amberton University	1
+The University of Michigan 	1
+Pressure Point Recording Studio	1
+University of utah	1
+TRIBECA FLASHPOINT	1
+University of Applied Sciences Berlin (HTW)	1
+Université Paris 1 Panthéon Sorbonne	1
+Universidad Nacional Mayor de San Marcos	1
+Skidmore College	1
+El Santuario High School 	1
+Ross Medical Education Center-Redford	1
+Regency Beauty Institute-Austin	1
+Delaware State University 	1
+CUNY Kingsborough Community College	1
+GlenEste High School	1
+Northeastern University 	1
+American Jewish University	1
+the George Washington University	1
+San Martin de Porres	1
+St.Andrew's Episcopal School	1
+Collins College	1
+Brookline College	1
+Springfield Technical Community College	1
+Munster High School	1
+Noxubee County High School	1
+Pierce College at Fort Steilacoom	1
+Jedi Academy	1
+Baltimore School of Massage	1
+Colorado Technial university	1
+SixRedMarbles-Test Group	1
+Grand Prairie High	1
+Pacific University	1
+WVU 	1
+Everest College- Colorado	1
+Bastrop High School	1
+London School of Economics and Political Science	1
+Excelsior 	1
+Hamilton College	1
+Sciences Po Paris	1
+Columbia University & Sciences Po Paris	1
+The University of New Mexico	1
+Monmouth College	1
+DeVry University-California	1
+Cedarville University	1
+Champlain College	1
+Visveswaraya Technological University, India	1
+Bilkent University	1
+Randolph College	1
+University of California at San Diego	1
+Gavilan College	1
+IE Business School	1
+Drury University	1
+Fairleigh Dickinson University-College at Florham	1
+Zhejiang University	1
+Communication Univercity of China	1
+北京理工大学	1
+KELLER GRADUATE SCHOOL OF MANAGEMENT	1
+ustc	1
+ICN Business School	1
+Mid Florida Tech	1
+sfafda	1
+m	1
+Samford University	1
+South Central College	1
+National Institute of Technology Jamshedpur	1
+Tennessee Technological University	1
+ecust	1
+Heald College-San Francisco	1
+Universidad del Valle de México	1
+Emmanuel College	1
+Univesity of California, Davis	1
+Ewha Womans university	1
+School of European and International Studies	1
+Thunderbird School of Global Management	1
+Univerrsity of Michigan	1
+Freed-Hardeman University	1
+Kutztown University of Pennsylvania	1
+Bina Sarana Informatika	1
+上海理工大学	1
+Jackson Community College	1
+Grenoble Ecole de Management	1
+Thiel College	1
+Dhonburi Rajabhat University	1
+G I T belgaum karnataka	1
+University of Auckland	1
+Southern College	1
+UCLA 	1
+National university of Science and Technology, Pakistan.	1
+University of Alabama System Office	1
+Stamford University	1
+University of Sheffield	1
+Shantilal Shah Engineering College	1
+A.M.S College of Engineering	1
+University of Shanghai for Science and Technology	1
+Birkbeck	1
+UWE	1
+God's Bible School and College	1
+university of venice	1
+University of Michigan (Stephen M. Ross School of Business)	1
+jaypee	1
+Universitas Multimedia Nusantara	1
+University of Wisconsin-La Crosse	1
+http://tinyurl.com/bdhjqxt	1
+zhejiang university of technology	1
+Universitas Indonesia	1
+Diponegoro Universty	1
+University of Michigan - School of Information	1
+University of Michigan - School of Public Health	1
+University of Michigan, Stephen M. Ross School of Business, Ann Arbor	1
+University of texas at austin	1
+Richmond Community College	1
+Universitas Sumatera Utara	1
+Universidad Alejandro de Humboldt	1
+Hillsborough High School	1
+Moscow state university of instrumental engineering and computer science	1
+Sikkim Manipal University	1
+university of regina	1
+University of Antwerp	1
+ASA Institute of Business and Computer Technology	1
+unixell	1
+College of Central Florida	1
+ain shams	1
+la salle university 	1
+Regina's College of Beauty	1
+University of Valladolid	1
+U. Lusíada Lisboa	1
+Universidade do Minho	1
+Münster University of Applied Sciences	1
+Acadiana Technical College-Lafayette Campus	1
+dps	1
+IIT R	1
+Nait	1
+atabasca	1
+Mansfield Beauty Schools	1
+central saint martins	1
+Rgpv	1
+iadt detroit 	1
+ha	1
+Rhode Island College	1
+cheju	1
+tinghua	1
+Art institute of vancouver	1
+universidade anhembi morumbi	1
+colorado  technical university	1
+jiangnan  university	1
+university of west virginia	1
+budi luhur university	1
+Seelio	1
+Queen's University, Belfast	1
+Allegany College of Maryland	1
+RWTH Aachen University	1
+AMD Akademie Mode und Design	1
+Hochiminh Economics University	1
+Kwame Nkrumah University of Science and Technology	1
+Heidelberg University	1
+LMU München	1
+Rovira i Virgili University	1
+Institut de Ciències Religioses Sant Fructuós	1
+Calumet College of Saint Joseph	1
+Hochschule Wismar	1
+Università degli studi di Padova	1
+Cologne	1
+IUBH - School of Business and Managemnt	1
+EBS Universität für Wirtschaft und Recht	1
+Brunswick Community College	1
+University of Indonesia	1
+university college dublin	1
+pforzheim	1
+University of London	1
+Pantheon	1
+Leeds	1
+HTW Berlin	1
+European College of Liberal Arts	1
+Derpinston	1
+Uni Hamburg	1
+Berlin	1
+YALE	1
+FH Vorarlberg	1
+The School of Life	1
+FH-Münster	1
+University of sheffield hallam	1
+Soochow University	1
+Universität Hamburg	1
+JKU	1
+echnical University of Munich	1
+KIMEP	1
+Universidad de Granada, Spain	1
+Intntnl. Professional Risk Managers' Assoc. (PRMIA)	1
+Lorenzo de' Medici Italian International Institute	1
+Alliant International University	1
+asia university	1
+University of Michigan; U	1
+University of Michigan School of Scoail Work	1
+Cathedral Prep	1
+St. Clair County Community College	1
+ESADE Business School	1
+Saint Andrew's Episcopal School	1
+Saint Andrew's	1
+University of Leiden, the Netherlands	1
+International school of management	1
+Northwest Vista College	1
+Erlangen	1
+Cass Techinical High School	1
+Universidad del desarrollo	1
+UFPE	1
+New Mexico State University-Dona Ana	1
+Indian Institute of Technology - Bombay	1
+Northern School of Permaculture 	1
+Queen's University Kingston	1
+Rheinische-Friedrich-Wilhelms-Universität-Bonn	1
+Univeristy of california, los angeles	1
+Università Cattolica del Sacro Cuore	1
+天津美术学院	1
+Devry University 	1
+Vienna University of Economics and Business 	1
+Tongji University	1
+The School of the Art Institute of Chicago	1
+Al Akhawayn University	1
+Trine University	1
+University of New Orleans	1
+University of New England (Australia)	1
+galileo	1
+Beijing University of Posts and Telecommunications	1
+University of Japan	1
+Saint Michael	1
+大東文化	1
+Antonio de Nebrija	1
+Rutgers Business School	1
+University of California Santa Cruz 	1
+Fundação Getulio Vargas	1
+The University of Toledo 	1
+oswego SUNY	1
+Willow Run High School	1
+Sichuan International Studies University	1
+Universidade Tiradentes - Unit	1
+university of computer Indonesia	1
+Westminster Kingsway College	1
+Bucerius Law School	1
+The Linsly School-College Preparatory	1
+Oakland University School of Education	1
+Michigan State University College of Human Medicine	1
+Barão de Santa Maria Madalena	1
+Institut Manajemen Telkom, Bandung	1
+u of toledo	1
+IFTM	1
+Alverna University	1
+Cleveland Institute of Music	1
+Art Institute of Indianapolis	1
+Pingry	1
+Escola Superior de Ciências da Saúde ESCS	1
+Indian Institute of Technology Roorkee	1
+Boston University Online	1
+CHINESE UNIVERSITY OF HONG KONG	1
+Lander University	1
+UBC	1
+Geneva School of Business Administration	1
+Fundação Getúlio Vargas	1
+university of waterloo	1
+Curtin University of Technology	1
+Entourage Institute of Beauty & Esthetics	1
+ The Johns Hopkins University	1
+northsouthen University	1
+NUI Galway	1
+Assumption College	1
+KHL	1
+Cleveland Community College	1
+Holy Names University	1
+University of California, Santa Cruz	1
+Cornell university 	1
+EBIAS	1
+Usc Universidade Sagrado Coração	1
+International Academy of design technology Chicago	1
+aquinas university of legaspi	1
+gymnasium	1
+Mount Pleasant High School	1
+Little Miami High School	1
+Gig Harbor high school	1
+Clover Park Technical College	1
+Big Bend Community College	1
+Lancaster University 	1
+Green Mountain College	1
+University Of Toledo	1
+Universidade de São Paulo	1
+PCCenter	1
+asd	1
+Canadian Valley Technology Center	1
+NYU Gallatin School of Individualized Study	1
+Virginia Western Community College	1
+Richard Bland College of the College of William and Mary	1
+White Bear Community College	1
+James Madison High School	1
+Fort Pierce Beauty Academy	1
+CCBC Essex	1
+SDI 	1
+Illinois Valley Community College	1
+Mesilla Valley School of Therapeutic Arts	1
+Penn Foster	1
+Basic Classification for Supervisor Training	1
+Basic Instructor Training Course	1
+Light Wheel Vehicle Mechanic Course	1
+Alfred Lawless High School	1
+Madras High School	1
+CSN/ EJATC	1
+University of Maryland Eastern Shore	1
+North Carolina Central University	1
+University of Duisburg-Essen	1
+Alamance Community College	1
+Hazard Community and Technical College	1
+DePaul University, Chicago, Illinois	1
+DeVry University, Chicago, Illinois	1
+CTU Colorado Springs Campus	1
+National College Business of Technology	1
+university of dammam	1
+Retired	1
+Universitatea Spiru Haret	1
+Ash Training School	1
+Enterpreneur	1
+Zane State College	1
+Ohio Univeristy Zanesville	1
+Cornell College	1
+Open Polytech NZ	1
+south lakes high school	1
+Gujarat Technological University,India	1
+university of new south wales	1
+The University of Texas	1
+Bandung Institute of Technology	1
+Ohio University - Scripps College of Communication	1
+2017	1
+st louis university	1
+Penn-Trafford High School	1
+Big Walnut highschool 	1
+Honors Tutorial College	1
+Montgomery Community College	1
+Granger High School	1
+Stratford Career Institute	1
+Kenedy King Collge	1
+Selma University	1
+Barstow High School	1
+Coastal Carolina Community College	1
+Pittsburgh Technical Institute	1
+Mandell Allied Health 	1
+Domestic Health Care	1
+utar	1
+Ghulam Ishaq Khan Institute of Engineering Sciences & Technology	1
+Universita' di Bologna	1
+Sistema Universitario Ana G. Mendez	1
+Hawaii Community College	1
+Oklahoma Christian University	1
+Okinawa International University	1
+University of Southampton	1
+Hastings College	1
+Scott High School	1
+Zhejiang Sci-Tech University	1
+Ultimate Medical Academy-Tampa	1
+African University College of Communication	1
+Linganore High school	1
+kathmandu university	1
+Beijing Institute of Technology,Zhuhai	1
+Corvinus University of Budapest	1
+Bryman College	1
+Univeristy of southern california 	1
+purdue	1
+Escola Superior de Educação de Lisboa	1
+E.W Scripps School of Journalism, Ohio University	1
+Kaplan 	1
+York College Pennsylvania	1
+Univerersity of Phoenix	1
+Gabriel Richard Catholic High School	1
+colarodo technical university	1
+GIg Harbor High School	1
+Anthem Institute Noth Brunswick NJ	1
+Barton Community College	1
+Blanton's Business College	1
+Wingate 	1
+KFW Medical 	1
+SDMCET	1
+Colorado Technical University - Online	1
+Bowie State University	1
+Central State University	1
+University of toront	1
+Pennsylvania State University-Penn State Harrisburg	1
+Strayer University-North Carolina	1
+Grantham University Online	1
+Atlanta Institute of Music	1
+Aalborg	1
+(Foreign Trade University)	1
+Alabama State University	1
+jamia millia islamia	1
+Unveristy of Texas at Austin	1
+Solano Community College	1
+Osmania	1
+靜宜大學資訊傳播工程學系	1
+University of the Punjab, (Gujranwala Campus)	1
+Shelton State Community College Alum	1
+Maryville College 	1
+Virginia Marti College of Art and Design	1
+Qatar university	1
+Communication University of China	1
+Saint Gregorys University	1
+Cerritos College	1
+Baker College	1
+Universal Technical Institute of Arizona Inc	1
+Centro Universitario Salesiano de São Paulo - Unisal Campus Lorena	1
+Texas School of Business Inc	1
+Casper College	1
+univeristy of toledo	1
+high	1
+Stetson University	1
+GITAM University	1
+Westwood College	1
+ University of Toledo	1
+University of Oran	1
+UNIVERSITY OG TOLEDO 	1
+ALI	1
+school of the art institute of chicago	1
+Unifacs	1
+Mt. San Jacinto Community College District	1
+California State University Chico	1
+Hamilton Technical College	1
+Milwaukee School of Engineering	1
+bhavans 	1
+Dark Helmet	1
+Global Shapers	1
+Lane College	1
+Gujarat technological University	1
+The University of Dayton	1
+Gig Harbor Hishschool	1
+University of south australia	1
+Monash	1
+Singapore Poly	1
+UNISA	1
+tehran	1
+International Relations Institute of Cameroon	1
+University of Yaounde II	1
+University of Northwestern Ohio	1
+North Carolina Wesleyan College	1
+UC Santa Barbara	1
+Stephens College	1
+Miller-Motte College-Wilmington	1
+St. Martins University	1
+Colorado Technical Uniiversity	1
+bits pilani	1
+CCAC Allegheny	1
+International Academy of Hair Design	1
+Estrella Mountain Community College	1
+The Univeristy of Arizona	1
+National University of Ireland, Maynooth	1
+south china university of technology	1
+University of Witwatersrand	1
+Юкгу им М.Ауезова	1
+Widener University-Main Campus	1
+University of New England	1
+Auckland	1
+University of arizona	1
+The Juilliard School	1
+Warwick	1
+bombay university	1
+LHU	1
+Texas A&M	1
+SUNY Westchester Community College	1
+Ewha Womans University	1
+Baruch College	1
+Shanghai University of Finance and Economics	1
+done	1
+hjdh	1
+pyuu	1
+jdsijdj	1
+aiims	1
+northwestern	1
+University of Berkeley	1
+Universidad de Salamanca	1
+ Shanghai Jiao Tong University	1
+shanghaiunversity	1
+Mulana University	1
+Amity	1
+lovely proffessional university	1
+agra university	1
+AMITY UNIVERSITY	1
+JNDU 	1
+PUNAJB TECNICAL UNIVERSITY	1
+JAMMU KASHMIR UNIVERSITY	1
+LAKHMAL UNIVERSITY OF AGRICULTURE	1
+KANGRA UNIVERSITY	1
+KERLA UNIVERTY	1
+California State Polytechnic University - San Luis Obispo	1
+Eustis-Farnam Public Schools	1
+Chattahoochee Technical College	1
+Tulane University School of Medicine	1
+Colby-Sawyer College	1
+JWU	1
+ORT Braude College	1
+Royal Melbourne Institute of Technology	1
+Frederick Community College	1
+Vatterott Career College	1
+Saint Thomas Aquinas	1
+Jackson State University	1
+Denver Laughs	1
+The University of Texas at Austin (edX)	1
+St. Francis de Sales High School	1
+University of Missouri	1
+Yonsei University 	1
+Andrew Jackson	1
+St Louis Community College	1
+MidAmerica Nazarene University	1
+Riga Technical University	1
+Graceland University-Lamoni	1
+University of Göttingen	1
+University of Central Lancashire	1
+UNLV	1
+Ganpat University	1
+Wembly International University	1
+Southern Adventist University	1
+al islam	1
+Bedford High School	1
+Cleary University	1
+University of Alicante	1
+Delta High School	1
+Sunderland University	1
+The University of Manchester 	1
+tribeca flashpoint academy	1
+detroit catholic central	1
+Toldeo	1
+Rikkyo University	1
+iPEC	1
+University of Anchorage	1
+Global University 	1
+South Hills Beauty Academy Inc	1
+Victor Valley College	1
+Pivot Point Beauty School	1
+Eastern Florida State	1
+Beijing Institute of Fashion Technology	1
+georgia tech	1
+Dulwich College Shanghai	1
+tribeca flashpoint media arts academy	1
+kendall college of art and design	1
+Purdue Calumet	1
+Purdue Calumet Univerity	1
+west virginia university 	1
+University of New Brunswick	1
+Fort Loramie High School	1
+Al-imam Muhammad Ibn Saud Islamic University	1
+Parkland College	1
+National Institute of Technology, Kurukshetra, India	1
+Middle Georgia State	1
+East Chicago Central High School	1
+Ivy Tech Community College- Valparaiso	1
+Yeshiva University	1
+Danish Institute for Study Abroad	1
+International Academy East	1
+Ohio Univeristy	1
+Belfast Bible College	1
+Ohio State University-Newark Campus	1
+Ohio	1
+Univeristy of Detroit Mercy	1
+Univeristy of Toledo	1
+State University of New York at Potsdam	1
+Cardinal Stritch University	1
+Elmhurst College	1
+tribeca flashpoint	1
+Lincolon Universiy 	1
+Essex Community College	1
+Treasure Valley Community College	1
+Certification and Beyond	1
+Lubbock Christian University	1
+Blackhawk Technical College	1
+Chaffey Community College	1
+CCSN	1
+National College	1
+Ash Worth Community College	1
+CTUOnline	1
+Coleman University	1
+Centaurus High School	1
+Московская школа кино	1
+Los Angeles Baptist High School	1
+Technical College of the Lowcountry	1
+Kathmandu University	1
+Centura college	1
+Lewis & Clark College	1
+Dorsey Business Schools-Roseville	1
+Inf	1
+Southeastern Oklahoma State University	1
+College of Horticulture, Vellanikkara	1
+CTU Online 	1
+Heald College-Concord	1
+Colorado Tech Univesiry 	1
+Associate of Science	1
+Detroit College of Business/ Davenport University, Warren, MI	1
+Strayer University 	1
+Oak Lawn Community High School	1
+Naperville North High School	1
+St. Charles Community College	1
+Colorado Techniacal 	1
+Ryerson University	1
+Homeschool	1
+Plumbers Local 210	1
+Rider University	1
+Saint Olaf College	1
+La Trobe University	1
+Rasmussen College-Minnesota	1
+Saint Joseph's College	1
+`Colorado Technical University	1
+CHIJ Secondary (Toa Payoh)	1
+Archbishop Prendergast	1
+Technological Educational Institute of Piraeus	1
+Bukit Timah Primary School	1
+Axia University of Phoenix Az Online 	1
+Norwich Central High School 	1
+Greene Central High School 	1
+Greene Central Middle School 	1
+Greene Central Elemartary School 	1
+Piedmont Community College	1
+Pennsylvania State University-Penn State Lehigh Valley	1
+Greater  Columbus Learning Center	1
+Itawamba Community College	1
+Griffin Technical College 	1
+Randolph Community College	1
+The College of Westchester	1
+IIT Institute of Design	1
+New York Medical College	1
+College of Wooster	1
+University of Exeter, U.K.	1
+Ohio State University	1
+The Haagse Hogeschool	1
+DeVry University	1
+University of Wisconsin-Platteville	1
+PSG College of Technology	1
+St. John's University-New York	1
+Michigan Career and Technical Institute	1
+New England Institute of Technology	1
+univeristy of california, davis	1
+Hult International Business School, San Francisco	1
+California State University - Sacramento	1
+Madras University	1
+Delhi University	1
+Brigham Young University-Hawaii	1
+Edgewood College	1
+UC Berkeley	1
+Tsinghua University	1
+Asian Institute of Management 	1
+taiyuan 	1
+fdsfds	1
+xxx	1
+BUPT	1
+Georgian Court University	1
+CUNY City College	1
+University of Cool	1
+Jones International University	1
+University of California Hastings College of Law	1
+[object HTMLCollection]	1
+Florida Institute of Technology	1
+Miami University (Ohio)	1
+Coe College	1
+Shenzhen Polytechnic	1
+深圳职业技术学院	1
+Westminster Choir College	1
+Mississippi University for Women	1
+China Women's university	1
+Folsom Lake College	1
+Georgia College & State University	1
+Mumbai University	1
+Black Sea Technical University	1
+Victor Valley Community College	1
+San Bernardino Valley College	1
+Unicersity of Michigan Ann Arbor	1
+8th Light University	1
+The College of New Jersey	1
+Universitas Pakuan Bogor	1
+University of the East - Manila	1
+Cal State University Dominguez Hills	1
+U Michigan	1
+communication university of China	1
+d 'Oultremontcollege	1
+Fonty's PABO Den Bosch	1
+E.P.I. Hospitality & Tourism Unit	1
+Eastern Oregon University	1
+University of Peshawar	1
+Udacity	1
+Cairo University	1
+Middle Tennessee State University	1
+Sciences Po	1
+University of Texa Pan-American	1
+University of Birmingham	1
+Chernivtsi National University, Ukraine	1
+Keele University	1
+SDN Kemayoran 1 Bangkalan	1
+SMPN 1 Bangkalan	1
+Algonquin College	1
+Universidad Del Turabo	1
+Muhammadiyah University Of Yogyakarta 	1
+Indonesian University of Education	1
+Tongji Unversity	1
+Vrije Universiteit Amsterdam	1
+Marymount University	1
+Florida Southern College	1
+Tashkent State University of Economics	1
+Bedford Senior High School	1
+University of Economics, Prague	1
+Universitas Nasional	1
+UVA	1
+University of Texas at Austin 	1
+Hertie School of Governance	1
+University of Wisconsin-Whitewater	1
+Le Cordon Bleu College of Culinary Arts in Chicago	1
+pusan national university	1
+Harvey Mudd College	1
+Collège de Maisonneuve	1
+IADE	1
+Peabody	1
+UFRG	1
+Indian Institute of Management	1
+University of North Flor	1
+Normal University	1
+Concordia University-Saint Paul	1
+Blue Mountain College	1
+PUC Minas	1
+National Institute of Technology, India	1
+Indian Institute of Technology Kharagpur	1
+princeton college	1
+dems	1
+Universidade Lusiada de Lisboa	1
+Universidade Lusíada de Lisboa	1
+humber	1
+School of Advertising Art Inc	1
+Universidad de Extremadura	1
+Pacific Northwest College of Art	1
+Lesley University	1
+Envision Ed	1
+Mathematics	1
+mumbai university	1
+china	1
+Studio Art Centers International	1
+iit	1
+Southwestern College	1
+IGNOU	1
+London Business School	1
+桂林电子科技	1
+U.S. Air Force Academy	1
+Nanyang Polytechnic	1
+Foothill College	1
+Gibbs College-Boston	1
+auxilium college	1
+DePaul University 	1
+LSE	1
+PanAm international flight academy	1
+Pitzer College	1
+Hochschule Rhein-Waal	1
+WWU	1
+Hochschule Trier	1
+ITESM	1
+Ivy Tech Community College-Columbus	1
+Hochschule Ostwestfalen-Lippe	1
+Audencia	1
+Koeln	1
+Musicians Institute	1
+philipps-universität marburg	1
+University of Scranton	1
+Bogor Agriculture Univesity	1
+Hagen	1
+Durham	1
+Dublin 	1
+University of Nottingham	1
+Universität Hohenheim	1
+Copenhagen Business School	1
+University Stuttgart	1
+University of British Columbia Okanagan 	1
+National Research Nuclear University MEPhI (former Moscow Engineering Physics Institute)	1
+Uni Wien	1
+disaster prevention	1
+Munich Business School	1
+Regensburg	1
+Belgrade business college	1
+University of Liechtenstein	1
+Anhui University	1
+VCCE	1
+UAL	1
+Lasell College	1
+Hochschule Fulda	1
+University of Southern Mindanao	1
+Fachhochschule Südwestfalen -Hagen	1
+Indian Institute for Foreign Trade	1
+Bath	1
+Friedrich-Alexander-Universität Erlangen-Nürnberg	1
+University of Copenhagen, Danish Institute for Study Abroad	1
+Palau Community College	1
+Saint Augustine's University	1
+bruchtal	1
+hamburg	1
+Edx	1
+Afeka College of Engineering, Tel Aviv	1
+Texas A&M 	1
+Concordia University, Montreal	1
+INZHECON	1
+University of Economics Ho Chi Minh city	1
+Capital University	1
+Green River Community College	1
+Nanjing University of Aeronautics and Astronautics	1
+Ludwig-Maximilians-Universität München	1
+saes	1
+SAES	1
+St. Andrews Episcopal School	1
+Strathclyde University	1
+University of Toledo-College of Medicine	1
+Technical University of Chemnitz	1
+DHBW Mannheim	1
+Uniersity of Michigan	1
+Northville High School	1
+Johnson State College	1
+School for International Training	1
+University of Michigan Ann Arbor, Athropology/African-American History	1
+Wageningen University	1
+University of Guelph	1
+loyola	1
+university west of england	1
+Mumbai University, India	1
+California College of the Arts	1
+University of Strathclyde, Glasgow	1
+University of CIncinnati	1
+University of Phoenix-Metro Detroit Campus	1
+Goldsmiths College	1
+Università Bocconi	1
+Indian Institute of Technology Bhubaneswar	1
+Concordia College, Moorhead	1
+San Carlos de Guatemala University	1
+yantannanshan	1
+DHBW	1
+Carl von Ossietzky University (Germany)	1
+Universitas Gadjah Mada	1
+LCC	1
+Private 4 year	1
+Ghana Technology University College	1
+New Mexico State University-Main Campus	1
+Adams State University	1
+fgv	1
+Pontifical Catholic University of Rio de Janeiro	1
+UNIFESP	1
+Universidade Estácio de Sá	1
+San Jose City College	1
+PUC-Campinas	1
+Infnet	1
+CESPU	1
+UNP	1
+University of Texas at Dallas	1
+GANEP - Enteral and Parenteral Nutrition Assistence Group	1
+UEPG - Universidade Estadual de Ponta Grossa	1
+Chinese University of Hong Kong	1
+Universidade Federal Fluminense	1
+University of Clarins	1
+唐山师范学院	1
+University of Louisville 	1
+ITT Technical Institute-Boise	1
+The Universiy of Toledo	1
+University California Los Angeles	1
+University of CIncinnati-2014	1
+AIU	1
+Linfield College	1
+Louisiana Tech University	1
+Universität Freiburg im Breisgau	1
+University of Sumatera Utara	1
+Minnesota State Community and Technical College	1
+Goergia Institute of Technology	1
+Ming Chuan University	1
+Rock Point School	1
+北京工业大学	1
+University of the Arts London	1
+University of Pune	1
+St. Mary	1
+California State University-Chico	1
+西安交通大学	1
+UCLA Nursing	1
+University of Hertfordshire - UK	1
+Southern Connecticut State University	1
+Ecole nationale de l'Aviation Civile	1
+Upper Arlington High School	1
+Oglethorpe University	1
+zG	1
+gig harbor highschool	1
+Univeritsy of North Carolina	1
+Winthrop University	1
+Hong Kong University of Science and Technology	1
+James Rumsey Technical Institute	1
+Geroge Washington University	1
+Principia College	1
+北京航空航天大学	1
+IBA	1
+JSU	1
+HNBGU	1
+colorodo Technicial University	1
+ENIS	1
+Leeds College of Music	1
+Univerity of Kentucky	1
+Miramar Junior College	1
+Port Saint Lucie High School	1
+University of Maine	1
+Greeley Central High School	1
+American Musical and Dramatic Academy	1
+Community College of Denver	1
+United States Army Reserves	1
+Accentura Academy	1
+Healthcare Association	1
+Senior Leadership Course	1
+University of Technology	1
+Georiga Institute of Technology	1
+ITT Technical Institute-Norfolk	1
+Keiser University-Ft. Lauderdale	1
+Saint Martin's University	1
+University of the District of Columbia	1
+University of Michigan School of Education	1
+Southern University at Shreveport	1
+High School	1
+California Institute of the Arts	1
+Mid Michigan Community College	1
+Queen City College	1
+university of toledo 	1
+Illinois Wesleyan University	1
+Rock Valley College	1
+Shrine of the Little Flower High School	1
+Univerisity of Michigan college of Engineering	1
+Nottingham University	1
+University of the Fraser Valley	1
+Robert Morris University	1
+Dalton State College	1
+Metropolitan State University of Denver	1
+alabama A&M University	1
+Ottawa University-Kansas City	1
+Goodman Middle School	1
+Park Rapids High School	1
+PENN STATE UNIVERSITY	1
+Bogazici University	1
+Washington State University 	1
+West Virginia University 	1
+College of Arts and Science	1
+Bergamo	1
+Saint Ignatius High School 	1
+College of Mechanical Engineering and Automation, Kecskemét, Hungary	1
+Music of Colloge 	1
+Marietta College	1
+Bradshaw Mountain High School	1
+Manhattanville College	1
+Washington State Community College	1
+Magma Cum Laude High School Degree	1
+The American University of Rome	1
+The University of Glasgow	1
+Northview High School	1
+Saarland University	1
+University of St Francis	1
+Engineering School, Ecole Centrale de Lille (France)	1
+University of Lille I	1
+CTUO	1
+Daymar College-Owensboro Campus	1
+Thomas Carr Howe High School	1
+Hudson Valley Comm College	1
+St. Philip's College	1
+Jefferson State Community College	1
+Des Moines Area Community College	1
+Middle Earth University	1
+WyoTech	1
+Lewis University	1
+ITT-Technical Institute-Pittsburgh	1
+Hannah-Pamplico High School	1
+ryerson university	1
+Beloit College	1
+Elizabethtown Community and Technical College	1
+The University of Virginia	1
+Eastern Washington University	1
+South Suburban College	1
+Prarie View A&M University	1
+UNIVERSITY OF MIDDLESEX	1
+Tyler Junior College	1
+Communication University	1
+Ohio Business College-Sheffield	1
+East Carolina University	1
+Edjuwcation	1
+devry	1
+Michigan Tech	1
+IITI	1
+San Joaquin Valley College-Online	1
+ege	1
+MSAJAA	1
+Word of Life Bible Institute	1
+Rhein waal university 	1
+Paier College of Art Inc	1
+University of Toronto Faculty of Applied Science and Engineering	1
+Copiah-Lincoln Community College	1
+Colby Community College	1
+Anthem College-Phoenix	1
+University Of Toronto	1
+Richmond School of Health and Technology	1
+Colorado Technical Universite 2017	1
+Dawn Career Institute Inc	1
+Shelton State Community College	1
